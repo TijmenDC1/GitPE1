@@ -1,0 +1,132 @@
+; ============================================================
+; PROJECT: ROBOT ARM - ONTVANGER (MOTOR KANT)
+; ============================================================
+; Deze code spiegelt de beweging van de zender.
+; Target data: RAM 30h - 41h (Ontvangen via UART)
+; Actuele stand: RAM 50h - 55h (Bijgehouden door deze chip)
+; ============================================================
+
+
+
+; Motor gewoon wa gepakt 
+M1_STEP    equ p1_data.0
+M1_DIR     equ p1_data.1
+M2_STEP    equ p1_data.2
+M2_DIR     equ p1_data.3
+M3_STEP    equ p1_data.4
+M3_DIR     equ p1_data.5
+M4_STEP    equ p1_data.6
+M4_DIR     equ p1_data.7
+M5_STEP    equ p2_data.1
+M5_DIR     equ p2_data.2
+M6_STEP    equ p2_data.3
+M6_DIR     equ p2_data.4
+
+
+
+
+Negeerzone  equ 0Ah         ; Deadzone (bijv. 10) om trillen te voorkomen
+
+ORG 0000h
+    mov sp, #7fh
+    lcall inituart1         ; Instellen UART1 (Roggemans)
+    lcall init_poorten      ; Richtingen instellen
+
+
+
+    ; alle huidige standen op 0 bij opstarten. ook direct de registers 
+    
+    mov 50h, #00h           
+    mov 51h, #00h           
+    mov 52h, #00h           
+    mov 53h, #00h           
+    mov 54h, #00h           
+    mov 55h, #00h           
+
+main:
+    lcall wachten_op_start  ; Zoek naar 0xFF afgesproken start bit bij andere xc88
+    lcall ontvangen_data    ; Pak 18 bytes en zet in 30h
+    lcall motoren_verschil ; Vergelijk Target met Actueel en stap
+    ljmp main
+
+
+
+
+
+
+wachten_op_start:
+    lcall uart1inchar
+    cjne a, #0xFF, wachten_op_start
+    ret
+
+ontvangen_data:
+    mov r0, #30h            ; Schrijf vanaf 30h
+    mov r2, #18             ; 18 bytes binnenhalen
+rx_loop:
+    lcall uart1inchar
+    mov @r0, a               ;elke keer 1 register verhogen
+    inc r0
+    djnz r2, rx_loop
+    ret
+
+
+motoren_verschil:
+    ; We vergelijken de HSB van de gyro met onze opgeslagen stand.
+    ; Volgens de insteling zender xc888  zit de HSB op 30h, 32h, ....
+    
+    ; MOTOR 1 (Target: 31h, oud: 50h)
+    mov a, 31h              ; Haal gyro waarde 
+    mov r1, #50h            ; oude in r1 register
+    lcall verschil_handler_m1
+
+    ; MOTOR 2 
+    mov a, 33h
+    mov r1, #51h
+    lcall verschil_handler_m2
+
+    ; MOTOR 3 
+    mov a, 35h
+    mov r1, #52h
+    lcall verschil_handler_m3
+
+    ; ... (Herhaal voor M4 t/m M6) ...
+    ret
+
+
+
+verschil_handler_m1:
+    mov b, a                ; Bewaar Target in B
+    mov a, @r1         ; Haal Actueel uit RAM (bijv. 50h)
+    
+    clr c                ;de flag clearen
+
+    subb a, b       ; A = Actueel - Target
+    jz m1_klaar     ; Verschil is 0 geen acite.
+
+    ; Check deadzone
+    mov r7, a             ; verschil in R7
+    jnb acc.7, m1_pos       ; Als bit 7 0 is het verschil positief (Jump if Not Bit set)
+    cpl a                   ; inverteren om absolute waarde te krijgen 
+
+m1_pos:
+    clr c
+    subb a, #Negeerzone
+    jc m1_klaar             ; Verschil kleiner dan 10 als de carry 1 is dus niks
+
+    mov a, r7               ; Pak het verschil terug
+    jb acc.7, m1_vooruit    ; Als verschil negatief was, moet Actueel omhoog
+
+m1_achteruit:
+    clr M1_DIR
+    setb M1_STEP
+    clr M1_STEP
+    dec @r1                 ; Onthoud dat we een stap terug zijn gegaan
+    ret
+
+m1_vooruit:
+    setb M1_DIR
+    setb M1_STEP
+    clr M1_STEP
+    inc @r1                 ; Onthoud dat we een stap verder zijn gegaan
+m1_klaar:
+    ret

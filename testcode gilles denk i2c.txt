@@ -1,0 +1,75 @@
+org 0000h 
+lcall initiic
+lcall initoled
+mov p4_dir, #11111111b
+eeprom_write:
+
+
+        lcall   iicstart
+        mov     a, #10100000b
+        lcall   iicoutbyte
+
+
+        mov     a, #00h
+        lcall   iicoutbyte
+
+        mov     a, #00h
+        lcall   iicoutbyte
+
+        mov     a, #0
+        lcall   iicoutbyte
+
+        lcall   iicstop
+        lcall delay5ms
+        lcall delay5ms
+        lcall delay5ms
+
+eeprom_reads:
+
+
+        lcall   iicstart
+
+        mov     a, #10100000b
+        lcall   iicoutbyte
+
+        mov     a, #00h
+        lcall   iicoutbyte
+
+        mov     a, #00h
+        lcall   iicoutbyte
+
+
+        lcall   iicstart
+
+        mov     a, #10100001b
+        lcall   iicoutbyte
+
+        lcall   iicinbytenack
+        mov r7, a
+        lcall   iicstop
+
+        lcall delay5ms
+        lcall delay5ms
+        lcall delay5ms
+        mov r6, #100
+
+
+buzzer_biep:
+
+        mov a, #0
+        lcall oledsetx
+        lcall oledsety
+        mov a, r7
+        lcall hexbcd8
+        lcall oledoutbyte
+
+        ljmp buzzer_biep
+delay5ms:
+        lcall delay1ms
+        lcall delay1ms
+        lcall delay1ms
+        lcall delay1ms
+        lcall delay1ms
+        ret
+#include "C:\oledxc0gilles.inc"
+#include "C:\xcez6.inc"
