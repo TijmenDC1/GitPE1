@@ -1,0 +1,56 @@
+Removed Pin From Net: NetName=NetJ27_8 Pin=R49-2
+Removed Pin From Net: NetName=NetJ27_7 Pin=R50-2
+Removed Pin From Net: NetName=NetJ27_6 Pin=R51-2
+Removed Pin From Net: NetName=NetJ27_5 Pin=R52-2
+Change Component Footprint: Designator=J27 Old Footprint=M20-4pin New Footprint=M20-8PIN
+Change Component Comment : Designator=J27 Old Comment=M20_4P_2way New Comment=M20-8P
+Added Pin To Net: NetName=P1.7 Pin=J9-1
+Added Pin To Net: NetName=P1.6 Pin=J9-2
+Added Pin To Net: NetName=P1.5 Pin=J9-3
+Added Pin To Net: NetName=P1.4 Pin=J9-4
+Added Pin To Net: NetName=P1.3 Pin=J9-5
+Added Pin To Net: NetName=P1.2 Pin=J9-6
+Added Pin To Net: NetName=NetJ17_1 Pin=J17-1
+Added Pin To Net: NetName=NetJ17_2 Pin=J17-2
+Added Pin To Net: NetName=NetJ17_3 Pin=J17-3
+Added Pin To Net: NetName=NetJ17_4 Pin=J17-4
+Added Pin To Net: NetName=NetJ17_5 Pin=J17-5
+Added Pin To Net: NetName=NetJ17_6 Pin=J17-6
+Added Pin To Net: NetName=NetJ17_7 Pin=J17-7
+Added Pin To Net: NetName=NetJ17_8 Pin=J17-8
+Added Pin To Net: NetName=NetJ27_5 Pin=J27-5
+Added Pin To Net: NetName=NetJ27_6 Pin=J27-6
+Added Pin To Net: NetName=NetJ27_7 Pin=J27-7
+Added Pin To Net: NetName=NetJ27_8 Pin=J27-8
+Added Pin To Net: NetName=NetJ27_5 Pin=J31-1
+Added Pin To Net: NetName=NetJ27_6 Pin=J31-2
+Added Pin To Net: NetName=NetJ27_7 Pin=J31-3
+Added Pin To Net: NetName=NetJ27_8 Pin=J31-4
+Add Net: Net with name "NetJ15_1" already exists
+Add Net: Net with name "NetJ15_2" already exists
+Add Net: Net with name "NetJ15_3" already exists
+Add Net: Net with name "NetJ15_4" already exists
+Add Net: Net with name "NetJ15_5" already exists
+Add Net: Net with name "NetJ15_6" already exists
+Add Net: Net with name "NetJ16_1" already exists
+Add Net: Net with name "NetJ16_2" already exists
+Add Net: Net with name "NetJ16_3" already exists
+Add Net: Net with name "NetJ16_4" already exists
+Add Net: Net with name "NetJ16_5" already exists
+Add Net: Net with name "NetJ16_6" already exists
+Add Net: Net with name "NetJ18_1" already exists
+Add Net: Net with name "NetJ18_2" already exists
+Add Net: Net with name "NetJ18_3" already exists
+Add Net: Net with name "NetJ18_4" already exists
+Add Net: Net with name "NetJ18_5" already exists
+Add Net: Net with name "NetJ18_6" already exists
+Add Net: Net with name "NetJ18_7" already exists
+Add Net: Net with name "NetJ18_8" already exists
+Add Net: Net with name "NetJ27_1" already exists
+Add Net: Net with name "NetJ27_2" already exists
+Add Net: Net with name "NetJ27_3" already exists
+Add Net: Net with name "NetJ27_4" already exists
+Add Net: Net with name "NetJ27_5" already exists
+Add Net: Net with name "NetJ27_6" already exists
+Add Net: Net with name "NetJ27_7" already exists
+Add Net: Net with name "NetJ27_8" already exists

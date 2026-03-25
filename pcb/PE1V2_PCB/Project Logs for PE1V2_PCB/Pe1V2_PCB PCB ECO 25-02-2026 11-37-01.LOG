@@ -1,0 +1,72 @@
+Removed Pin From Net: NetName=VCC STEP Pin=C22-1
+Removed Pin From Net: NetName=GND Pin=C22-2
+Removed Pin From Net: NetName=VCC STEP Pin=C23-1
+Removed Pin From Net: NetName=GND Pin=C23-2
+Removed Pin From Net: NetName=VCC STEP Pin=C24-1
+Removed Pin From Net: NetName=GND Pin=C24-2
+Removed Pin From Net: NetName=VCC STEP Pin=C28-1
+Removed Pin From Net: NetName=GND Pin=C28-2
+Removed Pin From Net: NetName=VCC STEP Pin=C29-1
+Removed Pin From Net: NetName=GND Pin=C29-2
+Removed Pin From Net: NetName=VCC STEP Pin=C30-1
+Removed Pin From Net: NetName=GND Pin=C30-2
+Removed Member From Class: ClassName=Steppers Member=C22
+Removed Member From Class: ClassName=Steppers Member=C23
+Removed Member From Class: ClassName=Steppers Member=C24
+Removed Member From Class: ClassName=Steppers Member=C28
+Removed Member From Class: ClassName=Steppers Member=C29
+Removed Member From Class: ClassName=Steppers Member=C30
+Removed Member From Class: ClassName=P3.[0..7] Member=P3.0
+Removed Member From Class: ClassName=P3.[0..7] Member=P3.1
+Removed Member From Class: ClassName=P3.[0..7] Member=P3.2
+Removed Member From Class: ClassName=P3.[0..7] Member=P3.3
+Removed Member From Class: ClassName=P3.[0..7] Member=P3.4
+Removed Member From Class: ClassName=P3.[0..7] Member=P3.5
+Removed Member From Class: ClassName=P3.[0..7] Member=P3.6
+Removed Member From Class: ClassName=P3.[0..7] Member=P3.7
+Added Component: Designator=J35(M20-2pin)
+Added Component: Designator=J36(M20-2pin)
+Added Component: Designator=J37(M20-2pin)
+Added Component: Designator=J38(M20-2pin)
+Added Component: Designator=J39(M20-2pin)
+Added Component: Designator=J40(M20-2pin)
+Added Pin To Net: NetName=VCC STEP Pin=J35-1
+Added Pin To Net: NetName=GND Pin=J35-2
+Added Pin To Net: NetName=VCC STEP Pin=J36-1
+Added Pin To Net: NetName=GND Pin=J36-2
+Added Pin To Net: NetName=VCC STEP Pin=J37-1
+Added Pin To Net: NetName=GND Pin=J37-2
+Added Pin To Net: NetName=VCC STEP Pin=J38-1
+Added Pin To Net: NetName=GND Pin=J38-2
+Added Pin To Net: NetName=VCC STEP Pin=J39-1
+Added Pin To Net: NetName=GND Pin=J39-2
+Added Pin To Net: NetName=VCC STEP Pin=J40-1
+Added Pin To Net: NetName=GND Pin=J40-2
+Change Net Name : Old Net Name=P3.0 New Net Name=P3.0
+Change Net Name : Old Net Name=P3.1 New Net Name=P3.1
+Change Net Name : Old Net Name=P3.2 New Net Name=P3.2
+Change Net Name : Old Net Name=P3.3 New Net Name=P3.3
+Change Net Name : Old Net Name=P3.4 New Net Name=P3.4
+Change Net Name : Old Net Name=P3.5 New Net Name=P3.5
+Change Net Name : Old Net Name=P3.6 New Net Name=P3.6
+Change Net Name : Old Net Name=P3.7 New Net Name=P3.7
+Added Member To Class: ClassName=Steppers Member=Component C25 100nF
+Added Member To Class: ClassName=Steppers Member=Component C26 100nF
+Added Member To Class: ClassName=Steppers Member=Component C27 100nF
+Added Member To Class: ClassName=Steppers Member=Component C31 100nF
+Added Member To Class: ClassName=Steppers Member=Component C32 100nF
+Added Member To Class: ClassName=Steppers Member=Component C33 100nF
+Added Member To Class: ClassName=Steppers Member=Component J35 M20_2P
+Added Member To Class: ClassName=Steppers Member=Component J36 M20_2P
+Added Member To Class: ClassName=Steppers Member=Component J37 M20_2P
+Added Member To Class: ClassName=Steppers Member=Component J38 M20_2P
+Added Member To Class: ClassName=Steppers Member=Component J39 M20_2P
+Added Member To Class: ClassName=Steppers Member=Component J40 M20_2P
+Added Member To Class: ClassName=P3.[0..7] Member=Element[0]: P3.
+Added Member To Class: ClassName=P3.[0..7] Member=Element[1]: P3.
+Added Member To Class: ClassName=P3.[0..7] Member=Element[2]: P3.
+Added Member To Class: ClassName=P3.[0..7] Member=Element[3]: P3.
+Added Member To Class: ClassName=P3.[0..7] Member=Element[4]: P3.
+Added Member To Class: ClassName=P3.[0..7] Member=Element[5]: P3.
+Added Member To Class: ClassName=P3.[0..7] Member=Element[6]: P3.
+Added Member To Class: ClassName=P3.[0..7] Member=Element[7]: P3.

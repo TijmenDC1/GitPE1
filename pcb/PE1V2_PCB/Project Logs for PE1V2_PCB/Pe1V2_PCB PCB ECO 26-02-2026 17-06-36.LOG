@@ -1,0 +1,11 @@
+Removed Member From Class: ClassName=Steppers Member=J31
+Removed Member From Class: ClassName=Steppers Member=J32
+Change Net Name : Old Net Name=P3.0 New Net Name=P3.0
+Change Net Name : Old Net Name=P3.1 New Net Name=P3.1
+Change Net Name : Old Net Name=P3.2 New Net Name=P3.2
+Change Net Name : Old Net Name=P3.3 New Net Name=P3.3
+Change Net Name : Old Net Name=P3.4 New Net Name=P3.4
+Change Net Name : Old Net Name=P3.5 New Net Name=P3.5
+Change Net Name : Old Net Name=P3.6 New Net Name=P3.6
+Change Net Name : Old Net Name=P3.7 New Net Name=P3.7
+Added Class: Name=P3.[0..7]

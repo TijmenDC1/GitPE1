@@ -1,0 +1,10 @@
+Added Component: Designator=R25(0603 jumper)
+Added Component: Designator=R26(0603 jumper)
+Added Component: Designator=U2(DPAK)
+Add Pin To Net: Unknown Pin: Pin R25-
+Add Pin To Net: Unknown Pin: Pin R25-
+Add Pin To Net: Unknown Pin: Pin R26-
+Add Pin To Net: Unknown Pin: Pin R26-
+Added Pin To Net: NetName=VCC Pin=U2-1
+Added Pin To Net: NetName=GND Pin=U2-2
+Added Pin To Net: NetName=5V Pin=U2-3

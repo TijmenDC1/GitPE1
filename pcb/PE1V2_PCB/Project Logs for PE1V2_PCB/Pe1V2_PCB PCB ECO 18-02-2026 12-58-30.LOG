@@ -1,0 +1,123 @@
+Removed Pin From Net: NetName=3.3V Pin=C2-2
+Removed Pin From Net: NetName=3.3V Pin=C4-2
+Removed Pin From Net: NetName=3.3V Pin=C5-2
+Removed Pin From Net: NetName=3.3V Pin=J8-1
+Removed Pin From Net: NetName=P4.0 Pin=J37-1
+Removed Pin From Net: NetName=P4.1 Pin=J37-2
+Removed Pin From Net: NetName=P4.2 Pin=J37-3
+Removed Pin From Net: NetName=Enable stp Pin=J44-1
+Removed Pin From Net: NetName=Reset (stpr) stp Pin=J44-2
+Removed Pin From Net: NetName=Sleep stp Pin=J44-3
+Removed Member From Class: ClassName=Steppers Member=J37
+Removed Member From Class: ClassName=Steppers Member=J44
+Change Component Footprint: Designator=J35 Old Footprint=M20-3PIN New Footprint=M20-6pin
+Change Component Footprint: Designator=J36 Old Footprint=M20-3PIN New Footprint=M20-6pin
+Change Component Comment : Designator=R10 Old Comment=15 New Comment=10K
+Change Component Comment : Designator=R1 Old Comment=27K New Comment=27
+Change Component Comment : Designator=R2 Old Comment=27K New Comment=27
+Change Component Comment : Designator=C18 Old Comment=100nF New Comment=22uF 
+Change Component Comment : Designator=J35 Old Comment=M20-3P New Comment=M20-6P
+Change Component Comment : Designator=J36 Old Comment=M20-3P New Comment=M20-6P
+Added Component: Designator=R12(RESC1608X55X25LL10T15)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "RC0603FR-102KL"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C2-2
+Added Pin To Net: NetName=GND Pin=C4-2
+Added Pin To Net: NetName=GND Pin=C5-2
+Add Pin To Net: Unknown Pin: Pin IC7-1
+Add Pin To Net: Unknown Pin: Pin IC7-3
+Add Pin To Net: Unknown Pin: Pin IC7-9
+Add Pin To Net: Unknown Pin: Pin IC7-10
+Add Pin To Net: Unknown Pin: Pin IC7-13
+Add Pin To Net: Unknown Pin: Pin IC7-17
+Added Pin To Net: NetName=NetJ9_1 Pin=J9-1
+Added Pin To Net: NetName=NetJ9_2 Pin=J9-2
+Added Pin To Net: NetName=NetJ9_3 Pin=J9-3
+Added Pin To Net: NetName=NetJ9_4 Pin=J9-4
+Added Pin To Net: NetName=NetJ9_5 Pin=J9-5
+Added Pin To Net: NetName=NetJ9_6 Pin=J9-6
+Add Pin To Net: Unknown Pin: Pin J27-5
+Add Pin To Net: Unknown Pin: Pin J27-6
+Add Pin To Net: Unknown Pin: Pin J27-7
+Add Pin To Net: Unknown Pin: Pin J27-8
+Add Pin To Net: Unknown Pin: Pin J30-5
+Add Pin To Net: Unknown Pin: Pin J30-6
+Add Pin To Net: Unknown Pin: Pin J30-7
+Add Pin To Net: Unknown Pin: Pin J30-8
+Added Pin To Net: NetName=P4.0 Pin=J35-4
+Added Pin To Net: NetName=P4.1 Pin=J35-5
+Added Pin To Net: NetName=P4.2 Pin=J35-6
+Added Pin To Net: NetName=Enable stp Pin=J36-4
+Added Pin To Net: NetName=Reset (stpr) stp Pin=J36-5
+Added Pin To Net: NetName=Sleep stp Pin=J36-6
+Added Pin To Net: NetName=3.3V Pin=R12-2
+Added Pin To Net: NetName=P3.0 Pin=IC4-8
+Added Pin To Net: NetName=P3.0 Pin=J17-8
+Added Pin To Net: NetName=P3.0 Pin=U1-43
+Added Net: Name=P3.0
+Added Pin To Net: NetName=P3.1 Pin=IC4-7
+Added Pin To Net: NetName=P3.1 Pin=J17-7
+Added Pin To Net: NetName=P3.1 Pin=U1-44
+Added Net: Name=P3.1
+Added Pin To Net: NetName=P3.2 Pin=J17-6
+Added Pin To Net: NetName=P3.2 Pin=J35-1
+Added Pin To Net: NetName=P3.2 Pin=U1-49
+Added Net: Name=P3.2
+Added Pin To Net: NetName=P3.3 Pin=J17-5
+Added Pin To Net: NetName=P3.3 Pin=J35-2
+Added Pin To Net: NetName=P3.3 Pin=U1-50
+Added Net: Name=P3.3
+Added Pin To Net: NetName=P3.4 Pin=J17-4
+Added Pin To Net: NetName=P3.4 Pin=J35-3
+Added Pin To Net: NetName=P3.4 Pin=U1-51
+Added Net: Name=P3.4
+Added Pin To Net: NetName=P3.5 Pin=J7-6
+Added Pin To Net: NetName=P3.5 Pin=J17-3
+Added Pin To Net: NetName=P3.5 Pin=U1-52
+Added Net: Name=P3.5
+Added Pin To Net: NetName=P3.6 Pin=IC3-8
+Added Pin To Net: NetName=P3.6 Pin=J17-2
+Added Pin To Net: NetName=P3.6 Pin=U1-41
+Added Net: Name=P3.6
+Added Pin To Net: NetName=P3.7 Pin=IC3-7
+Added Pin To Net: NetName=P3.7 Pin=J17-1
+Added Pin To Net: NetName=P3.7 Pin=U1-42
+Added Net: Name=P3.7
+Added Pin To Net: NetName=NetC8_1 Pin=C8-1
+Added Net: Name=NetC8_1
+Added Pin To Net: NetName=NetC9_2 Pin=C9-2
+Added Pin To Net: NetName=NetC9_2 Pin=R2-2
+Added Net: Name=NetC9_2
+Added Pin To Net: NetName=NetC10_2 Pin=C10-2
+Added Pin To Net: NetName=NetC10_2 Pin=R1-2
+Added Net: Name=NetC10_2
+Added Pin To Net: NetName=NetIC7_2 Pin=J1-3
+Added Pin To Net: NetName=NetIC7_2 Pin=U1-35
+Added Net: Name=NetIC7_2
+Added Pin To Net: NetName=NetIC7_15 Pin=J1-2
+Added Pin To Net: NetName=NetIC7_15 Pin=U1-34
+Added Net: Name=NetIC7_15
+Added Pin To Net: NetName=NetJ8_1 Pin=J8-1
+Added Pin To Net: NetName=NetJ8_1 Pin=R12-1
+Added Net: Name=NetJ8_1
+Add Net: Net with name "NetJ15_1" already exists
+Add Net: Net with name "NetJ15_2" already exists
+Add Net: Net with name "NetJ15_3" already exists
+Add Net: Net with name "NetJ15_4" already exists
+Add Net: Net with name "NetJ15_5" already exists
+Add Net: Net with name "NetJ15_6" already exists
+Add Net: Net with name "NetJ16_1" already exists
+Add Net: Net with name "NetJ16_2" already exists
+Add Net: Net with name "NetJ16_3" already exists
+Add Net: Net with name "NetJ16_4" already exists
+Add Net: Net with name "NetJ16_5" already exists
+Add Net: Net with name "NetJ16_6" already exists
+Add Net: Net with name "NetJ18_1" already exists
+Add Net: Net with name "NetJ18_2" already exists
+Add Net: Net with name "NetJ18_3" already exists
+Add Net: Net with name "NetJ18_4" already exists
+Add Net: Net with name "NetJ18_5" already exists
+Add Net: Net with name "NetJ18_6" already exists
+Add Net: Net with name "NetJ18_7" already exists
+Add Net: Net with name "NetJ18_8" already exists
+Added Class: Name=P3.[0..7]

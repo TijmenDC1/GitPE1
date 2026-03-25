@@ -1,0 +1,22 @@
+Removed Pin From Net: NetName=VCC Pin=C18-2
+Removed Pin From Net: NetName=GND Pin=U3-1
+Removed Pin From Net: NetName=3.3V Pin=U3-2
+Removed Pin From Net: NetName=VCC Pin=U3-3
+Change Component Footprint: Designator=U2 Old Footprint=TO220 New Footprint=SOT-233
+Change Component Footprint: Designator=U3 Old Footprint=TO220 New Footprint=SOT-233
+Change Component Comment : Designator=C19 Old Comment=10uF New Comment=330nF
+Change Component Comment : Designator=C18 Old Comment=100nF New Comment=470nF
+Change Component Comment : Designator=U2 Old Comment=L7805CV New Comment=L7805
+Change Component Comment : Designator=U3 Old Comment=LD1117V33 New Comment=LM3940
+Change Managed Component Library Link : Designator=U2 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID= Old ItemGUID=FD64429A-8BED-4071-A9E6-1A0E51324064 New ItemGUID= Old RevisionGUID=BB739E15-BFD8-46FA-ADDC-3360A49CD5D2 New RevisionGUID=
+Change Managed Component Library Link : Designator=U3 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID= Old ItemGUID=98C64EE5-CD59-4779-95FA-8F3D5EC61F52 New ItemGUID= Old RevisionGUID=DFC2DED9-114E-4CB8-98C6-C894B754FBCC New RevisionGUID=
+Change component parameters: Designator = "U2" ("U2"); Footprint = "TO220"; UniqueID = "\UAKHWAKP" ("\UAKHWAKP")
+Change component parameters: Designator = "U3" ("U3"); Footprint = "TO220"; UniqueID = "\POEBGCJH" ("\POEBGCJH")
+Added Pin To Net: NetName=5V Pin=C18-2
+Add Pin To Net: Unknown Pin: Pin R25-
+Add Pin To Net: Unknown Pin: Pin R25-
+Add Pin To Net: Unknown Pin: Pin R26-
+Add Pin To Net: Unknown Pin: Pin R26-
+Added Pin To Net: NetName=5V Pin=U3-1
+Added Pin To Net: NetName=GND Pin=U3-2
+Added Pin To Net: NetName=3.3V Pin=U3-3

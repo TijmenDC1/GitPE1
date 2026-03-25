@@ -1,0 +1,68 @@
+Removed Pin From Net: NetName=3.3V Pin=C27-1
+Removed Pin From Net: NetName=GND Pin=C27-2
+Removed Pin From Net: NetName=3.3V Pin=C31-1
+Removed Pin From Net: NetName=GND Pin=C31-2
+Removed Pin From Net: NetName=3.3V Pin=C32-1
+Removed Pin From Net: NetName=GND Pin=C32-2
+Removed Pin From Net: NetName=3.3V Pin=C33-1
+Removed Pin From Net: NetName=GND Pin=C33-2
+Removed Member From Class: ClassName=Steppers Member=C31
+Removed Member From Class: ClassName=Steppers Member=C32
+Removed Member From Class: ClassName=Steppers Member=C33
+Change Component Footprint: Designator=C26 Old Footprint=CAPC1608X90X35LL15T15 New Footprint=SMD-ELCO-CAP
+Change Comment: Unknown Component : C25
+Change Component Comment : Designator=C26 Old Comment=100nF New Comment=100uF-elco-cap
+Change Comment: Unknown Component : C27
+Change Managed Component Library Link: Component "C25" not found
+Change Managed Component Library Link : Designator=C26 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID= Old ItemGUID=D11D19B0-1885-48CD-9BE7-ABEC0B4DB4FD New ItemGUID= Old RevisionGUID=8154B202-4954-4D7E-87B4-1C9EF4724581 New RevisionGUID=
+Change Managed Component Library Link: Component "C27" not found
+Change component parameters: Component "C25" not found
+Change component parameters: Designator = "C26" ("C26"); Footprint = "CAPC1608X90X35LL15T15"; UniqueID = "\UNCMGBBX" ("\UNCMGBBX")
+Change component parameters: Component "C27" not found
+Added Component: Designator=C18(SMD-ELCO-CAP)
+Added Component: Designator=C19(SMD-ELCO-CAP)
+Added Component: Designator=C20(SMD-ELCO-CAP)
+Added Pin To Net: NetName=GND Pin=C18-1
+Added Pin To Net: NetName=VCC STEP Pin=C18-2
+Added Pin To Net: NetName=GND Pin=C19-1
+Added Pin To Net: NetName=VCC STEP Pin=C19-2
+Added Pin To Net: NetName=GND Pin=C20-1
+Added Pin To Net: NetName=VCC STEP Pin=C20-2
+Add Pin To Net: Unknown Pin: Pin C21-1
+Add Pin To Net: Unknown Pin: Pin C21-2
+Add Pin To Net: Unknown Pin: Pin C22-1
+Add Pin To Net: Unknown Pin: Pin C22-2
+Add Pin To Net: Unknown Pin: Pin C23-1
+Add Pin To Net: Unknown Pin: Pin C23-2
+Add Pin To Net: Unknown Pin: Pin C24-1
+Add Pin To Net: Unknown Pin: Pin C24-2
+Add Pin To Net: Unknown Pin: Pin C27-1
+Add Pin To Net: Unknown Pin: Pin C27-2
+Add Pin To Net: Unknown Pin: Pin C28-1
+Add Pin To Net: Unknown Pin: Pin C28-2
+Add Pin To Net: Unknown Pin: Pin C29-1
+Add Pin To Net: Unknown Pin: Pin C29-2
+Add Pin To Net: Unknown Pin: Pin R3-
+Add Pin To Net: Unknown Pin: Pin R3-
+Add Pin To Net: Unknown Pin: Pin R4-
+Add Pin To Net: Unknown Pin: Pin R4-
+Change Net Name : Old Net Name=P3.0 New Net Name=P3.0
+Change Net Name : Old Net Name=P3.1 New Net Name=P3.1
+Change Net Name : Old Net Name=P3.2 New Net Name=P3.2
+Change Net Name : Old Net Name=P3.3 New Net Name=P3.3
+Change Net Name : Old Net Name=P3.4 New Net Name=P3.4
+Change Net Name : Old Net Name=P3.5 New Net Name=P3.5
+Change Net Name : Old Net Name=P3.6 New Net Name=P3.6
+Change Net Name : Old Net Name=P3.7 New Net Name=P3.7
+Added Class: Name=P3.[0..7]
+Added Member To Class: ClassName=Steppers Member=Component C18 100uF-elco-cap
+Added Member To Class: ClassName=Steppers Member=Component C19 100uF-elco-cap
+Added Member To Class: ClassName=Steppers Member=Component C20 100uF-elco-cap
+Add Class Member: Failed to add class member : Component C21 Capacitor
+Add Class Member: Failed to add class member : Component C22 Capacitor
+Add Class Member: Failed to add class member : Component C23 Capacitor
+Add Class Member: Failed to add class member : Component C24 100uF-elco-cap
+Add Class Member: Failed to add class member : Component C25 100uF-elco-cap
+Added Member To Class: ClassName=Steppers Member=Component C26 100uF-elco-cap
+Add Class Member: Failed to add class member : Component C28 Capacitor
+Add Class Member: Failed to add class member : Component C29 Capacitor

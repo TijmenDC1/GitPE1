@@ -1,0 +1,29 @@
+Removed Member From Class: ClassName=Steppers Member=C18
+Removed Member From Class: ClassName=Steppers Member=IC1
+Removed Member From Class: ClassName=Steppers Member=J26
+Change Component Designator: OldDesignator=J14 NewDesignator=J16
+Change Component Designator: OldDesignator=J15 NewDesignator=J17
+Change Component Designator: OldDesignator=J16 NewDesignator=J18
+Change Component Designator: OldDesignator=J17 NewDesignator=J19
+Change Component Designator: OldDesignator=J18 NewDesignator=J20
+Change Component Designator: OldDesignator=J19 NewDesignator=J14
+Change Component Designator: OldDesignator=J20 NewDesignator=J15
+Change Net Name : Old Net Name=NetJ19_1 New Net Name=NetJ14_1
+Change Net Name : Old Net Name=NetJ19_2 New Net Name=NetJ14_2
+Change Net Name : Old Net Name=NetJ19_3 New Net Name=NetJ14_3
+Change Net Name : Old Net Name=NetJ19_4 New Net Name=NetJ14_4
+Change Net Name : Old Net Name=NetJ20_1 New Net Name=NetJ15_1
+Change Net Name : Old Net Name=NetJ20_2 New Net Name=NetJ15_2
+Added Member To Class: ClassName=Steppers Member=Component C22 100uF
+Added Member To Class: ClassName=Steppers Member=Component C24 100nF
+Added Member To Class: ClassName=Steppers Member=Component C26 100nF
+Added Member To Class: ClassName=Steppers Member=Component C28 100uF
+Added Member To Class: ClassName=Steppers Member=Component C30 100nF
+Added Member To Class: ClassName=Steppers Member=Component C32 100nF
+Added Member To Class: ClassName=Steppers Member=Component IC3 A4988
+Added Member To Class: ClassName=Steppers Member=Component IC5 A4988
+Added Member To Class: ClassName=Steppers Member=Component IC7 A4988
+Added Member To Class: ClassName=Steppers Member=Component J29 B4B-XH-AM
+Added Member To Class: ClassName=Steppers Member=Component J30 B4B-XH-AM
+Added Member To Class: ClassName=Steppers Member=Component J31 B4B-XH-AM
+Added Member To Class: ClassName=Steppers Member=Component J32 B4B-XH-AM

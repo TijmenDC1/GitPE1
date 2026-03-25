@@ -1,0 +1,99 @@
+Removed Pin From Net: NetName=NetJ18_1 Pin=Q1-2
+Removed Pin From Net: NetName=NetJ18_2 Pin=Q2-2
+Removed Pin From Net: NetName=NetJ18_3 Pin=Q3-2
+Removed Pin From Net: NetName=NetJ18_4 Pin=Q4-2
+Removed Pin From Net: NetName=NetJ19_1 Pin=Q5-2
+Removed Pin From Net: NetName=NetJ19_2 Pin=Q6-2
+Removed Pin From Net: NetName=VCC Pin=R13-1
+Removed Pin From Net: NetName=VCC Pin=R14-1
+Removed Pin From Net: NetName=VCC Pin=R15-1
+Removed Pin From Net: NetName=VCC Pin=R16-1
+Removed Pin From Net: NetName=VCC Pin=R17-1
+Removed Pin From Net: NetName=VCC Pin=R18-1
+Removed Pin From Net: NetName=P1.2 Pin=R19-2
+Removed Pin From Net: NetName=P1.3 Pin=R20-2
+Removed Pin From Net: NetName=P1.4 Pin=R21-2
+Removed Pin From Net: NetName=P1.5 Pin=R22-2
+Removed Pin From Net: NetName=P1.6 Pin=R23-2
+Removed Pin From Net: NetName=P1.7 Pin=R24-2
+Removed Pin From Net: NetName=GND Pin=R25-2
+Removed Pin From Net: NetName=GND Pin=R26-2
+Removed Pin From Net: NetName=GND Pin=R27-2
+Removed Pin From Net: NetName=GND Pin=R28-2
+Removed Pin From Net: NetName=GND Pin=R29-2
+Removed Pin From Net: NetName=GND Pin=R30-2
+Removed Member From Class: ClassName=Steppers Member=J25
+Change Component Comment : Designator=Q1 Old Comment=2N7002 New Comment=BSS84
+Change Component Comment : Designator=Q2 Old Comment=2N7002 New Comment=BSS84
+Change Component Comment : Designator=Q3 Old Comment=2N7002 New Comment=BSS84
+Change Component Comment : Designator=Q4 Old Comment=2N7002 New Comment=BSS84
+Change Component Comment : Designator=Q5 Old Comment=2N7002 New Comment=BSS84
+Change Component Comment : Designator=Q6 Old Comment=2N7002 New Comment=BSS84
+Change Component Comment : Designator=R19 Old Comment=10 New Comment=470
+Change Component Comment : Designator=R20 Old Comment=10 New Comment=470
+Change Component Comment : Designator=R21 Old Comment=10 New Comment=470
+Change Component Comment : Designator=R22 Old Comment=10 New Comment=470
+Change Component Comment : Designator=R23 Old Comment=10 New Comment=470
+Change Component Comment : Designator=R24 Old Comment=10 New Comment=470
+Change Component Comment : Designator=R13 Old Comment=470 New Comment=10K
+Change Component Comment : Designator=R14 Old Comment=470 New Comment=10K
+Change Component Comment : Designator=R15 Old Comment=470 New Comment=10K
+Change Component Comment : Designator=R16 Old Comment=470 New Comment=10K
+Change Component Comment : Designator=R17 Old Comment=470 New Comment=10K
+Change Component Comment : Designator=R18 Old Comment=470 New Comment=10K
+Added Pin To Net: NetName=P1.2 Pin=Q1-1
+Added Pin To Net: NetName=VCC Pin=Q1-3
+Added Pin To Net: NetName=P1.3 Pin=Q2-1
+Added Pin To Net: NetName=VCC Pin=Q2-3
+Added Pin To Net: NetName=P1.4 Pin=Q3-1
+Added Pin To Net: NetName=VCC Pin=Q3-3
+Added Pin To Net: NetName=P1.5 Pin=Q4-1
+Added Pin To Net: NetName=VCC Pin=Q4-3
+Added Pin To Net: NetName=P1.6 Pin=Q5-1
+Added Pin To Net: NetName=VCC Pin=Q5-3
+Added Pin To Net: NetName=P1.7 Pin=Q6-1
+Added Pin To Net: NetName=VCC Pin=Q6-3
+Added Pin To Net: NetName=3.3V Pin=R13-1
+Added Pin To Net: NetName=P1.2 Pin=R13-2
+Added Pin To Net: NetName=3.3V Pin=R14-1
+Added Pin To Net: NetName=P1.3 Pin=R14-2
+Added Pin To Net: NetName=3.3V Pin=R15-1
+Added Pin To Net: NetName=P1.4 Pin=R15-2
+Added Pin To Net: NetName=3.3V Pin=R16-1
+Added Pin To Net: NetName=P1.5 Pin=R16-2
+Added Pin To Net: NetName=3.3V Pin=R17-1
+Added Pin To Net: NetName=P1.6 Pin=R17-2
+Added Pin To Net: NetName=3.3V Pin=R18-1
+Added Pin To Net: NetName=P1.7 Pin=R18-2
+Added Pin To Net: NetName=NetJ18_1 Pin=R19-2
+Added Pin To Net: NetName=NetJ18_2 Pin=R20-2
+Added Pin To Net: NetName=NetJ18_3 Pin=R21-2
+Added Pin To Net: NetName=NetJ18_4 Pin=R22-2
+Added Pin To Net: NetName=NetJ19_1 Pin=R23-2
+Added Pin To Net: NetName=NetJ19_2 Pin=R24-2
+Added Pin To Net: NetName=NetQ1_2 Pin=Q1-2
+Added Pin To Net: NetName=NetQ1_2 Pin=R19-1
+Added Net: Name=NetQ1_2
+Added Pin To Net: NetName=NetQ2_2 Pin=Q2-2
+Added Pin To Net: NetName=NetQ2_2 Pin=R20-1
+Added Net: Name=NetQ2_2
+Added Pin To Net: NetName=NetQ3_2 Pin=Q3-2
+Added Pin To Net: NetName=NetQ3_2 Pin=R21-1
+Added Net: Name=NetQ3_2
+Added Pin To Net: NetName=NetQ4_2 Pin=Q4-2
+Added Pin To Net: NetName=NetQ4_2 Pin=R22-1
+Added Net: Name=NetQ4_2
+Added Pin To Net: NetName=NetQ5_2 Pin=Q5-2
+Added Pin To Net: NetName=NetQ5_2 Pin=R23-1
+Added Net: Name=NetQ5_2
+Added Pin To Net: NetName=NetQ6_2 Pin=Q6-2
+Added Pin To Net: NetName=NetQ6_2 Pin=R24-1
+Added Net: Name=NetQ6_2
+Added Member To Class: ClassName=Steppers Member=Component C23 100uF
+Added Member To Class: ClassName=Steppers Member=Component C25 100nF
+Added Member To Class: ClassName=Steppers Member=Component C27 100nF
+Added Member To Class: ClassName=Steppers Member=Component C29 100uF
+Added Member To Class: ClassName=Steppers Member=Component C31 100nF
+Added Member To Class: ClassName=Steppers Member=Component J26 B2B-XH-AM
+Added Member To Class: ClassName=Steppers Member=Component J28 B4B-XH-AM
+Added Member To Class: ClassName=Steppers Member=Component J31 B4B-XH-AM

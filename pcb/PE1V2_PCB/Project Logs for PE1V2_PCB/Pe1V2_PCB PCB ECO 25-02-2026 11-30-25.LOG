@@ -1,0 +1,51 @@
+Removed Pin From Net: NetName=3.3V Pin=C25-1
+Removed Pin From Net: NetName=GND Pin=C25-2
+Removed Pin From Net: NetName=3.3V Pin=C26-1
+Removed Pin From Net: NetName=GND Pin=C26-2
+Removed Pin From Net: NetName=3.3V Pin=C27-1
+Removed Pin From Net: NetName=GND Pin=C27-2
+Removed Pin From Net: NetName=3.3V Pin=C31-1
+Removed Pin From Net: NetName=GND Pin=C31-2
+Removed Pin From Net: NetName=3.3V Pin=C32-1
+Removed Pin From Net: NetName=GND Pin=C32-2
+Removed Pin From Net: NetName=3.3V Pin=C33-1
+Removed Pin From Net: NetName=GND Pin=C33-2
+Removed Member From Class: ClassName=Steppers Member=C25
+Removed Member From Class: ClassName=Steppers Member=C26
+Removed Member From Class: ClassName=Steppers Member=C27
+Removed Member From Class: ClassName=Steppers Member=C31
+Removed Member From Class: ClassName=Steppers Member=C32
+Removed Member From Class: ClassName=Steppers Member=C33
+Added Component: Designator=J35(M20-2pin)
+Added Component: Designator=J36(M20-2pin)
+Added Component: Designator=J37(M20-2pin)
+Added Component: Designator=J38(M20-2pin)
+Added Component: Designator=J39(M20-2pin)
+Added Component: Designator=J40(M20-2pin)
+Added Pin To Net: NetName=3.3V Pin=J35-1
+Added Pin To Net: NetName=GND Pin=J35-2
+Added Pin To Net: NetName=3.3V Pin=J36-1
+Added Pin To Net: NetName=GND Pin=J36-2
+Added Pin To Net: NetName=3.3V Pin=J37-1
+Added Pin To Net: NetName=GND Pin=J37-2
+Added Pin To Net: NetName=3.3V Pin=J38-1
+Added Pin To Net: NetName=GND Pin=J38-2
+Added Pin To Net: NetName=3.3V Pin=J39-1
+Added Pin To Net: NetName=GND Pin=J39-2
+Added Pin To Net: NetName=3.3V Pin=J40-1
+Added Pin To Net: NetName=GND Pin=J40-2
+Change Net Name : Old Net Name=P3.0 New Net Name=P3.0
+Change Net Name : Old Net Name=P3.1 New Net Name=P3.1
+Change Net Name : Old Net Name=P3.2 New Net Name=P3.2
+Change Net Name : Old Net Name=P3.3 New Net Name=P3.3
+Change Net Name : Old Net Name=P3.4 New Net Name=P3.4
+Change Net Name : Old Net Name=P3.5 New Net Name=P3.5
+Change Net Name : Old Net Name=P3.6 New Net Name=P3.6
+Change Net Name : Old Net Name=P3.7 New Net Name=P3.7
+Added Class: Name=P3.[0..7]
+Added Member To Class: ClassName=Steppers Member=Component J35 M20_2P
+Added Member To Class: ClassName=Steppers Member=Component J36 M20_2P
+Added Member To Class: ClassName=Steppers Member=Component J37 M20_2P
+Added Member To Class: ClassName=Steppers Member=Component J38 M20_2P
+Added Member To Class: ClassName=Steppers Member=Component J39 M20_2P
+Added Member To Class: ClassName=Steppers Member=Component J40 M20_2P

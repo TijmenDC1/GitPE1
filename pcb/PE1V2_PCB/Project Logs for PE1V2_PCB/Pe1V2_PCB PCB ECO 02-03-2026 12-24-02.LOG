@@ -1,0 +1,22 @@
+Removed Member From Class: ClassName=P3.[0..7] Member=P3.0
+Removed Member From Class: ClassName=P3.[0..7] Member=P3.1
+Removed Member From Class: ClassName=P3.[0..7] Member=P3.5
+Removed Member From Class: ClassName=P3.[0..7] Member=P3.6
+Removed Member From Class: ClassName=P3.[0..7] Member=P3.7
+Add Pin To Net: Unknown Pin: Pin J33-1
+Add Pin To Net: Unknown Pin: Pin J33-2
+Add Pin To Net: Unknown Pin: Pin J33-3
+Add Pin To Net: Unknown Pin: Pin J33-4
+Add Pin To Net: Unknown Pin: Pin J33-5
+Add Pin To Net: Unknown Pin: Pin J33-6
+Add Pin To Net: Unknown Pin: Pin J33-7
+Add Pin To Net: Unknown Pin: Pin J33-8
+Add Pin To Net: Unknown Pin: Pin J33-9
+Add Pin To Net: Unknown Pin: Pin J33-10
+Add Pin To Net: Unknown Pin: Pin J33-11
+Add Pin To Net: Unknown Pin: Pin J33-12
+Add Pin To Net: Unknown Pin: Pin R25-
+Add Pin To Net: Unknown Pin: Pin R25-
+Add Pin To Net: Unknown Pin: Pin R26-
+Add Pin To Net: Unknown Pin: Pin R26-
+Add Class Member: Failed to add class member : Component J33 M20-2x6P

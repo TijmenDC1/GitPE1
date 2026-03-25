@@ -1,0 +1,205 @@
+Change Net Name : Old Net Name=P3.0 New Net Name=P3.0
+Change Net Name : Old Net Name=P3.1 New Net Name=P3.1
+Change Net Name : Old Net Name=P3.2 New Net Name=P3.2
+Change Net Name : Old Net Name=P3.3 New Net Name=P3.3
+Change Net Name : Old Net Name=P3.4 New Net Name=P3.4
+Change Net Name : Old Net Name=P3.5 New Net Name=P3.5
+Change Net Name : Old Net Name=P3.6 New Net Name=P3.6
+Change Net Name : Old Net Name=P3.7 New Net Name=P3.7
+Added Pin To Net: NetName=NetJ14_1 Pin=J14-1
+Added Pin To Net: NetName=NetJ14_1 Pin=Q2-3
+Added Net: Name=NetJ14_1
+Add Net: Net with name "NetJ14_1" already exists
+Added Pin To Net: NetName=NetJ14_2 Pin=J14-2
+Added Pin To Net: NetName=NetJ14_2 Pin=Q4-3
+Added Net: Name=NetJ14_2
+Add Net: Net with name "NetJ14_2" already exists
+Added Pin To Net: NetName=NetJ14_3 Pin=J14-3
+Added Pin To Net: NetName=NetJ14_3 Pin=Q6-3
+Added Net: Name=NetJ14_3
+Add Net: Net with name "NetJ14_3" already exists
+Added Pin To Net: NetName=NetJ14_4 Pin=J14-4
+Added Pin To Net: NetName=NetJ14_4 Pin=Q8-3
+Added Net: Name=NetJ14_4
+Add Net: Net with name "NetJ14_4" already exists
+Added Pin To Net: NetName=NetJ15_1 Pin=J15-1
+Added Pin To Net: NetName=NetJ15_1 Pin=R17-2
+Added Net: Name=NetJ15_1
+Add Net: Net with name "NetJ15_1" already exists
+Added Pin To Net: NetName=NetJ15_2 Pin=J15-2
+Added Pin To Net: NetName=NetJ15_2 Pin=R18-2
+Added Net: Name=NetJ15_2
+Add Net: Net with name "NetJ15_2" already exists
+Added Pin To Net: NetName=NetJ15_3 Pin=J15-3
+Added Pin To Net: NetName=NetJ15_3 Pin=R19-2
+Added Net: Name=NetJ15_3
+Add Net: Net with name "NetJ15_3" already exists
+Added Pin To Net: NetName=NetJ15_4 Pin=J15-4
+Added Pin To Net: NetName=NetJ15_4 Pin=R20-2
+Added Net: Name=NetJ15_4
+Add Net: Net with name "NetJ15_4" already exists
+Added Pin To Net: NetName=NetJ17_1 Pin=J17-1
+Added Pin To Net: NetName=NetJ17_1 Pin=Q10-3
+Added Net: Name=NetJ17_1
+Add Net: Net with name "NetJ17_1" already exists
+Added Pin To Net: NetName=NetJ17_2 Pin=J17-2
+Added Pin To Net: NetName=NetJ17_2 Pin=Q12-3
+Added Net: Name=NetJ17_2
+Add Net: Net with name "NetJ17_2" already exists
+Added Pin To Net: NetName=NetJ17_3 Pin=J17-3
+Added Pin To Net: NetName=NetJ17_3 Pin=Q13-2
+Added Net: Name=NetJ17_3
+Add Net: Net with name "NetJ17_3" already exists
+Added Pin To Net: NetName=NetJ17_4 Pin=J17-4
+Added Pin To Net: NetName=NetJ17_4 Pin=Q16-3
+Added Net: Name=NetJ17_4
+Add Net: Net with name "NetJ17_4" already exists
+Added Pin To Net: NetName=NetJ18_1 Pin=J18-1
+Added Pin To Net: NetName=NetJ18_1 Pin=J19-1
+Added Net: Name=NetJ18_1
+Add Net: Net with name "NetJ18_1" already exists
+Added Pin To Net: NetName=NetJ18_2 Pin=J18-2
+Added Pin To Net: NetName=NetJ18_2 Pin=J19-2
+Added Net: Name=NetJ18_2
+Add Net: Net with name "NetJ18_2" already exists
+Added Pin To Net: NetName=NetJ18_3 Pin=J18-3
+Added Pin To Net: NetName=NetJ18_3 Pin=J19-3
+Added Net: Name=NetJ18_3
+Add Net: Net with name "NetJ18_3" already exists
+Added Pin To Net: NetName=NetJ18_4 Pin=J18-4
+Added Pin To Net: NetName=NetJ18_4 Pin=J19-4
+Added Net: Name=NetJ18_4
+Add Net: Net with name "NetJ18_4" already exists
+Add Net: Net with name "NetJ20_1" already exists
+Add Net: Net with name "NetJ20_2" already exists
+Add Net: Net with name "NetJ21_1" already exists
+Add Net: Net with name "NetJ21_2" already exists
+Added Pin To Net: NetName=NetJ26_1 Pin=J26-1
+Added Pin To Net: NetName=NetJ26_1 Pin=Q21-2
+Added Net: Name=NetJ26_1
+Add Net: Net with name "NetJ26_1" already exists
+Added Pin To Net: NetName=NetJ26_2 Pin=J26-2
+Added Pin To Net: NetName=NetJ26_2 Pin=Q23-2
+Added Net: Name=NetJ26_2
+Add Net: Net with name "NetJ26_2" already exists
+Added Pin To Net: NetName=NetJ26_3 Pin=J26-3
+Added Pin To Net: NetName=NetJ26_3 Pin=Q26-3
+Added Net: Name=NetJ26_3
+Add Net: Net with name "NetJ26_3" already exists
+Added Pin To Net: NetName=NetJ26_4 Pin=J26-4
+Added Pin To Net: NetName=NetJ26_4 Pin=Q28-3
+Added Net: Name=NetJ26_4
+Add Net: Net with name "NetJ26_4" already exists
+Added Pin To Net: NetName=NetJ27_1 Pin=J27-1
+Added Pin To Net: NetName=NetJ27_1 Pin=R49-2
+Added Net: Name=NetJ27_1
+Add Net: Net with name "NetJ27_1" already exists
+Added Pin To Net: NetName=NetJ27_2 Pin=J27-2
+Added Pin To Net: NetName=NetJ27_2 Pin=R50-2
+Added Net: Name=NetJ27_2
+Add Net: Net with name "NetJ27_2" already exists
+Added Pin To Net: NetName=NetJ27_3 Pin=J27-3
+Added Pin To Net: NetName=NetJ27_3 Pin=J28-3
+Added Net: Name=NetJ27_3
+Add Net: Net with name "NetJ27_3" already exists
+Added Pin To Net: NetName=NetJ27_4 Pin=J27-4
+Added Pin To Net: NetName=NetJ27_4 Pin=J28-4
+Added Net: Name=NetJ27_4
+Add Net: Net with name "NetJ27_4" already exists
+Added Pin To Net: NetName=NetJ29_1 Pin=J29-1
+Added Pin To Net: NetName=NetJ29_1 Pin=Q30-3
+Added Net: Name=NetJ29_1
+Add Net: Net with name "NetJ29_1" already exists
+Added Pin To Net: NetName=NetJ29_2 Pin=J29-2
+Added Pin To Net: NetName=NetJ29_2 Pin=Q31-2
+Added Net: Name=NetJ29_2
+Add Net: Net with name "NetJ29_2" already exists
+Added Pin To Net: NetName=NetJ29_3 Pin=J29-3
+Added Pin To Net: NetName=NetJ29_3 Pin=Q34-3
+Added Net: Name=NetJ29_3
+Add Net: Net with name "NetJ29_3" already exists
+Added Pin To Net: NetName=NetJ29_4 Pin=J29-4
+Added Pin To Net: NetName=NetJ29_4 Pin=Q36-3
+Added Net: Name=NetJ29_4
+Add Net: Net with name "NetJ29_4" already exists
+Added Pin To Net: NetName=NetJ30_1 Pin=J30-1
+Added Pin To Net: NetName=NetJ30_1 Pin=J31-1
+Added Net: Name=NetJ30_1
+Add Net: Net with name "NetJ30_1" already exists
+Added Pin To Net: NetName=NetJ30_2 Pin=J30-2
+Added Pin To Net: NetName=NetJ30_2 Pin=R54-2
+Added Net: Name=NetJ30_2
+Add Net: Net with name "NetJ30_2" already exists
+Added Pin To Net: NetName=NetJ30_3 Pin=J30-3
+Added Pin To Net: NetName=NetJ30_3 Pin=J31-3
+Added Net: Name=NetJ30_3
+Add Net: Net with name "NetJ30_3" already exists
+Added Pin To Net: NetName=NetJ30_4 Pin=J30-4
+Added Pin To Net: NetName=NetJ30_4 Pin=R56-2
+Added Net: Name=NetJ30_4
+Add Net: Net with name "NetJ30_4" already exists
+Added Pin To Net: NetName=NetJ32_1 Pin=J32-1
+Added Pin To Net: NetName=NetJ32_1 Pin=Q38-3
+Added Net: Name=NetJ32_1
+Add Net: Net with name "NetJ32_1" already exists
+Added Pin To Net: NetName=NetJ32_2 Pin=J32-2
+Added Pin To Net: NetName=NetJ32_2 Pin=Q39-2
+Added Net: Name=NetJ32_2
+Add Net: Net with name "NetJ32_2" already exists
+Added Pin To Net: NetName=NetJ32_3 Pin=J32-3
+Added Pin To Net: NetName=NetJ32_3 Pin=Q41-2
+Added Net: Name=NetJ32_3
+Add Net: Net with name "NetJ32_3" already exists
+Added Pin To Net: NetName=NetJ32_4 Pin=J32-4
+Added Pin To Net: NetName=NetJ32_4 Pin=Q44-3
+Added Net: Name=NetJ32_4
+Add Net: Net with name "NetJ32_4" already exists
+Added Pin To Net: NetName=NetJ33_1 Pin=J33-1
+Added Pin To Net: NetName=NetJ33_1 Pin=J34-1
+Added Net: Name=NetJ33_1
+Add Net: Net with name "NetJ33_1" already exists
+Added Pin To Net: NetName=NetJ33_2 Pin=J33-2
+Added Pin To Net: NetName=NetJ33_2 Pin=R70-2
+Added Net: Name=NetJ33_2
+Add Net: Net with name "NetJ33_2" already exists
+Added Pin To Net: NetName=NetJ33_3 Pin=J33-3
+Added Pin To Net: NetName=NetJ33_3 Pin=R71-2
+Added Net: Name=NetJ33_3
+Add Net: Net with name "NetJ33_3" already exists
+Added Pin To Net: NetName=NetJ33_4 Pin=J33-4
+Added Pin To Net: NetName=NetJ33_4 Pin=R72-2
+Added Net: Name=NetJ33_4
+Add Net: Net with name "NetJ33_4" already exists
+Added Pin To Net: NetName=NetJ35_1 Pin=J35-1
+Added Pin To Net: NetName=NetJ35_1 Pin=Q46-3
+Added Net: Name=NetJ35_1
+Add Net: Net with name "NetJ35_1" already exists
+Added Pin To Net: NetName=NetJ35_2 Pin=J35-2
+Added Pin To Net: NetName=NetJ35_2 Pin=Q48-3
+Added Net: Name=NetJ35_2
+Add Net: Net with name "NetJ35_2" already exists
+Added Pin To Net: NetName=NetJ35_3 Pin=J35-3
+Added Pin To Net: NetName=NetJ35_3 Pin=Q50-3
+Added Net: Name=NetJ35_3
+Add Net: Net with name "NetJ35_3" already exists
+Added Pin To Net: NetName=NetJ35_4 Pin=J35-4
+Added Pin To Net: NetName=NetJ35_4 Pin=Q51-2
+Added Net: Name=NetJ35_4
+Add Net: Net with name "NetJ35_4" already exists
+Added Pin To Net: NetName=NetJ36_1 Pin=J36-1
+Added Pin To Net: NetName=NetJ36_1 Pin=J37-1
+Added Net: Name=NetJ36_1
+Add Net: Net with name "NetJ36_1" already exists
+Added Pin To Net: NetName=NetJ36_2 Pin=J36-2
+Added Pin To Net: NetName=NetJ36_2 Pin=J37-2
+Added Net: Name=NetJ36_2
+Add Net: Net with name "NetJ36_2" already exists
+Added Pin To Net: NetName=NetJ36_3 Pin=J36-3
+Added Pin To Net: NetName=NetJ36_3 Pin=J37-3
+Added Net: Name=NetJ36_3
+Add Net: Net with name "NetJ36_3" already exists
+Added Pin To Net: NetName=NetJ36_4 Pin=J36-4
+Added Pin To Net: NetName=NetJ36_4 Pin=R76-2
+Added Net: Name=NetJ36_4
+Add Net: Net with name "NetJ36_4" already exists
+Added Class: Name=P3.[0..7]

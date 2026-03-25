@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=NetIC1_15 Pin=J1-2
+Removed Pin From Net: NetName=NetIC1_2 Pin=J1-3
+Removed Pin From Net: NetName=NetIC1_15 Pin=U1-34
+Removed Pin From Net: NetName=NetIC1_2 Pin=U1-35
+Added Component: Designator=R25(0603 jumper)
+Added Component: Designator=R26(0603 jumper)
+Added Pin To Net: NetName=NetIC1_15 Pin=R25-1
+Added Pin To Net: NetName=NetIC1_2 Pin=R26-1
+Added Pin To Net: NetName=NetJ1_2 Pin=J1-2
+Added Pin To Net: NetName=NetJ1_2 Pin=R25-2
+Added Pin To Net: NetName=NetJ1_2 Pin=U1-34
+Added Net: Name=NetJ1_2
+Added Pin To Net: NetName=NetJ1_3 Pin=J1-3
+Added Pin To Net: NetName=NetJ1_3 Pin=R26-2
+Added Pin To Net: NetName=NetJ1_3 Pin=U1-35
+Added Net: Name=NetJ1_3

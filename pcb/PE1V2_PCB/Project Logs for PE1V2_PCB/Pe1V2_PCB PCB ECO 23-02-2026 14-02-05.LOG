@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=P4.0 Pin=J20-2
+Removed Pin From Net: NetName=P4.0 Pin=J33-2
+Removed Pin From Net: NetName=P4.0 Pin=U1-60
+Added Pin To Net: NetName=P4.1 Pin=J20-2
+Added Pin To Net: NetName=P4.1 Pin=J33-2
+Added Pin To Net: NetName=P4.1 Pin=U1-60
+Added Net: Name=P4.1
+Added Member To Class: ClassName=P4.[0..7] Member=Element[1]: P4.

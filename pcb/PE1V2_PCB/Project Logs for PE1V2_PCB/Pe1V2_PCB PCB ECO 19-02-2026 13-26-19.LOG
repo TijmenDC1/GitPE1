@@ -1,0 +1,300 @@
+Removed Pin From Net: NetName=GND Pin=D5-2
+Removed Pin From Net: NetName=GND Pin=D6-2
+Removed Pin From Net: NetName=P1.7 Pin=J9-1
+Removed Pin From Net: NetName=P1.6 Pin=J9-2
+Removed Pin From Net: NetName=P1.5 Pin=J9-3
+Removed Pin From Net: NetName=P1.4 Pin=J9-4
+Removed Pin From Net: NetName=P1.3 Pin=J9-5
+Removed Pin From Net: NetName=P1.2 Pin=J9-6
+Removed Pin From Net: NetName=P2.0 Pin=J23-1
+Removed Pin From Net: NetName=P2.1 Pin=J23-2
+Removed Pin From Net: NetName=P2.2 Pin=J23-3
+Removed Pin From Net: NetName=P2.3 Pin=J23-4
+Removed Pin From Net: NetName=P2.4 Pin=J24-1
+Removed Pin From Net: NetName=P2.5 Pin=J24-2
+Removed Pin From Net: NetName=P2.6 Pin=J24-3
+Removed Pin From Net: NetName=P2.7 Pin=J24-4
+Removed Pin From Net: NetName=P4.0 Pin=J38-1
+Removed Pin From Net: NetName=P4.1 Pin=J38-2
+Removed Pin From Net: NetName=P4.2 Pin=J38-3
+Removed Pin From Net: NetName=P4.3 Pin=J38-4
+Removed Pin From Net: NetName=P5.0 Pin=J39-1
+Removed Pin From Net: NetName=P5.1 Pin=J39-2
+Removed Pin From Net: NetName=P5.2 Pin=J39-3
+Removed Pin From Net: NetName=P5.3 Pin=J39-4
+Removed Pin From Net: NetName=P4.4 Pin=J40-1
+Removed Pin From Net: NetName=P4.5 Pin=J40-2
+Removed Pin From Net: NetName=P4.6 Pin=J40-3
+Removed Pin From Net: NetName=P4.7 Pin=J40-4
+Removed Pin From Net: NetName=P5.4 Pin=J41-1
+Removed Pin From Net: NetName=P5.5 Pin=J41-2
+Removed Pin From Net: NetName=P5.6 Pin=J41-3
+Removed Pin From Net: NetName=P5.7 Pin=J41-4
+Removed Pin From Net: NetName=GND Pin=J42-1
+Removed Pin From Net: NetName=GND Pin=J42-2
+Removed Pin From Net: NetName=GND Pin=J43-1
+Removed Pin From Net: NetName=GND Pin=J43-2
+Removed Pin From Net: NetName=VCC Pin=Q9-3
+Removed Pin From Net: NetName=NetQ9_1 Pin=Q11-1
+Removed Pin From Net: NetName=VCC Pin=Q11-3
+Removed Pin From Net: NetName=NetQ9_1 Pin=Q13-1
+Removed Pin From Net: NetName=VCC Pin=Q13-3
+Removed Pin From Net: NetName=NetQ9_1 Pin=Q15-1
+Removed Pin From Net: NetName=VCC Pin=Q15-3
+Removed Pin From Net: NetName=NetQ9_1 Pin=Q17-1
+Removed Pin From Net: NetName=VCC Pin=Q17-3
+Removed Pin From Net: NetName=NetQ9_1 Pin=Q19-1
+Removed Pin From Net: NetName=VCC Pin=Q19-3
+Removed Pin From Net: NetName=VCC Pin=Q21-3
+Removed Pin From Net: NetName=VCC Pin=Q23-3
+Removed Pin From Net: NetName=VCC Pin=Q25-3
+Removed Pin From Net: NetName=VCC Pin=Q27-3
+Removed Pin From Net: NetName=VCC Pin=Q29-3
+Removed Pin From Net: NetName=VCC Pin=Q31-3
+Removed Pin From Net: NetName=VCC Pin=Q33-3
+Removed Pin From Net: NetName=VCC Pin=Q35-3
+Removed Pin From Net: NetName=NetQ9_1 Pin=R24-1
+Removed Pin From Net: NetName=NetQ9_1 Pin=R25-1
+Removed Pin From Net: NetName=NetQ9_1 Pin=R26-1
+Removed Pin From Net: NetName=NetQ9_1 Pin=R27-1
+Removed Pin From Net: NetName=NetQ9_1 Pin=R28-1
+Removed Pin From Net: NetName=GND Pin=R47-2
+Removed Pin From Net: NetName=GND Pin=R48-2
+Removed Pin From Net: NetName=3.3V Pin=S2-2
+Removed Pin From Net: NetName=3.3V Pin=S3-2
+Change Component Footprint: Designator=J16 Old Footprint=M20-6pin New Footprint=KF128-2.54-2P
+Change Component Footprint: Designator=J9 Old Footprint=M20-6pin New Footprint=KF128-2.54-4P
+Change Component Footprint: Designator=J15 Old Footprint=M20-6pin New Footprint=KF128-2.54-4P
+Change Component Footprint: Designator=J17 Old Footprint=M20-8PIN New Footprint=KF128-2.54-4P
+Change Component Footprint: Designator=J18 Old Footprint=M20-8PIN New Footprint=KF128-2.54-4P
+Change Component Footprint: Designator=J27 Old Footprint=M20-8PIN New Footprint=KF128-2.54-4P
+Change Component Comment : Designator=R21 Old Comment=6 New Comment=10K
+Change Component Comment : Designator=R22 Old Comment=10 New Comment=10K
+Change Component Comment : Designator=C18 Old Comment=22uF  New Comment=22uF
+Change Component Comment : Designator=J28 Old Comment=KF128-2.54-4P New Comment=
+Change Component Comment : Designator=J15 Old Comment=M20-6P New Comment=
+Change Component Comment : Designator=J16 Old Comment=M20-6P New Comment=KF128-2.54-2P
+Change Component Comment : Designator=J9 Old Comment=M20-6P New Comment=KF128-2.54-4P
+Change Component Comment : Designator=J17 Old Comment=M20-8P New Comment=KF128-2.54-4P
+Change Component Comment : Designator=J18 Old Comment=M20-8P New Comment=KF128-2.54-4P
+Change Component Comment : Designator=J27 Old Comment=M20-8P New Comment=KF128-2.54-4P
+Change component parameters: Designator = "J9" ("J9"); Footprint = "M20-6pin"; UniqueID = "\SREGBDWM" ("\SREGBDWM")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://jirorwxhqiillo5p.ldycdn.com/KF128-2.54-aidqpBpqKirRliSqmrqirlki.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "9.1mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "CIXI KEFA ELECTRONICS"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "KF128-2.54-4P"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "J15" ("J15"); Footprint = "M20-6pin"; UniqueID = "\PYHVKERK" ("\PYHVKERK")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://jirorwxhqiillo5p.ldycdn.com/KF128-2.54-aidqpBpqKirRliSqmrqirlki.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "9.1mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "CIXI KEFA ELECTRONICS"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "KF128-2.54-4P"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "J16" ("J16"); Footprint = "M20-6pin"; UniqueID = "\AFYYDWZS" ("\AFYYDWZS")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://jirorwxhqiillo5p.ldycdn.com/KF128-2.54-aidqpBpqKirRliSqmrqirlki.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "9.1mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "CIXI KEFA ELECTRONICS"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "KF128-2.54-2P"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "J17" ("J17"); Footprint = "M20-8PIN"; UniqueID = "\WIIWBVEK" ("\WIIWBVEK")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://jirorwxhqiillo5p.ldycdn.com/KF128-2.54-aidqpBpqKirRliSqmrqirlki.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "9.1mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "CIXI KEFA ELECTRONICS"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "KF128-2.54-4P"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "J18" ("J18"); Footprint = "M20-8PIN"; UniqueID = "\XXFHTFNK" ("\XXFHTFNK")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://jirorwxhqiillo5p.ldycdn.com/KF128-2.54-aidqpBpqKirRliSqmrqirlki.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "9.1mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "CIXI KEFA ELECTRONICS"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "KF128-2.54-4P"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "J27" ("J27"); Footprint = "M20-8PIN"; UniqueID = "\NLMMECBA" ("\NLMMECBA")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://jirorwxhqiillo5p.ldycdn.com/KF128-2.54-aidqpBpqKirRliSqmrqirlki.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "9.1mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "CIXI KEFA ELECTRONICS"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "KF128-2.54-4P"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J30(KF128-2.54-2P)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://jirorwxhqiillo5p.ldycdn.com/KF128-2.54-aidqpBpqKirRliSqmrqirlki.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "9.1mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "CIXI KEFA ELECTRONICS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "KF128-2.54-2P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R13(RESC1608X55X25LL10T15)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "RC0603FR-102KL"; VariantName = "[No Variations]"
+Added Component: Designator=R14(RESC1608X55X25LL10T15)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "RC0603FR-102KL"; VariantName = "[No Variations]"
+Added Component: Designator=R15(RESC1608X55X25LL10T15)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "RC0603FR-102KL"; VariantName = "[No Variations]"
+Added Component: Designator=R16(RESC1608X55X25LL10T15)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "RC0603FR-102KL"; VariantName = "[No Variations]"
+Added Component: Designator=R17(RESC1608X55X25LL10T15)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "RC0603FR-102KL"; VariantName = "[No Variations]"
+Added Component: Designator=R18(RESC1608X55X25LL10T15)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "RC0603FR-102KL"; VariantName = "[No Variations]"
+Added Component: Designator=R19(RESC1608X55X25LL10T15)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "RC0603FR-102KL"; VariantName = "[No Variations]"
+Added Component: Designator=R20(RESC1608X55X25LL10T15)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "RC0603FR-102KL"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=P2.0 Pin=J9-1
+Added Pin To Net: NetName=P2.1 Pin=J9-2
+Added Pin To Net: NetName=P2.2 Pin=J9-3
+Added Pin To Net: NetName=P2.3 Pin=J9-4
+Added Pin To Net: NetName=P2.4 Pin=J15-1
+Added Pin To Net: NetName=P2.5 Pin=J15-2
+Added Pin To Net: NetName=P2.6 Pin=J15-3
+Added Pin To Net: NetName=P2.7 Pin=J15-4
+Added Pin To Net: NetName=GND Pin=J16-1
+Added Pin To Net: NetName=GND Pin=J16-2
+Added Pin To Net: NetName=P4.0 Pin=J23-1
+Added Pin To Net: NetName=P4.1 Pin=J23-2
+Added Pin To Net: NetName=P4.2 Pin=J23-3
+Added Pin To Net: NetName=P4.3 Pin=J23-4
+Added Pin To Net: NetName=P4.4 Pin=J24-1
+Added Pin To Net: NetName=P4.5 Pin=J24-2
+Added Pin To Net: NetName=P4.6 Pin=J24-3
+Added Pin To Net: NetName=P4.7 Pin=J24-4
+Added Pin To Net: NetName=P5.0 Pin=J27-1
+Added Pin To Net: NetName=P5.1 Pin=J27-2
+Added Pin To Net: NetName=P5.2 Pin=J27-3
+Added Pin To Net: NetName=P5.3 Pin=J27-4
+Added Pin To Net: NetName=P5.4 Pin=J28-1
+Added Pin To Net: NetName=P5.5 Pin=J28-2
+Added Pin To Net: NetName=P5.6 Pin=J28-3
+Added Pin To Net: NetName=P5.7 Pin=J28-4
+Added Pin To Net: NetName=GND Pin=J30-1
+Added Pin To Net: NetName=GND Pin=J30-2
+Added Pin To Net: NetName=VCC Pin=R13-1
+Added Pin To Net: NetName=VCC Pin=R14-1
+Added Pin To Net: NetName=VCC Pin=R15-1
+Added Pin To Net: NetName=VCC Pin=R16-1
+Added Pin To Net: NetName=VCC Pin=R17-1
+Added Pin To Net: NetName=VCC Pin=R18-1
+Added Pin To Net: NetName=GND Pin=R19-2
+Added Pin To Net: NetName=GND Pin=R20-2
+Added Pin To Net: NetName=GND Pin=R21-2
+Added Pin To Net: NetName=GND Pin=R22-2
+Added Pin To Net: NetName=P1.2 Pin=R23-2
+Added Pin To Net: NetName=P1.3 Pin=R24-2
+Added Pin To Net: NetName=P1.4 Pin=R25-2
+Added Pin To Net: NetName=P1.5 Pin=R26-2
+Added Pin To Net: NetName=P1.6 Pin=R27-2
+Added Pin To Net: NetName=P1.7 Pin=R28-2
+Added Pin To Net: NetName=P3.0 Pin=IC4-8
+Added Pin To Net: NetName=P3.0 Pin=J17-4
+Added Pin To Net: NetName=P3.0 Pin=U1-43
+Added Net: Name=P3.0
+Added Pin To Net: NetName=P3.1 Pin=IC4-7
+Added Pin To Net: NetName=P3.1 Pin=J17-3
+Added Pin To Net: NetName=P3.1 Pin=U1-44
+Added Net: Name=P3.1
+Added Pin To Net: NetName=P3.2 Pin=J17-2
+Added Pin To Net: NetName=P3.2 Pin=J35-1
+Added Pin To Net: NetName=P3.2 Pin=U1-49
+Added Net: Name=P3.2
+Added Pin To Net: NetName=P3.3 Pin=J17-1
+Added Pin To Net: NetName=P3.3 Pin=J35-2
+Added Pin To Net: NetName=P3.3 Pin=U1-50
+Added Net: Name=P3.3
+Added Pin To Net: NetName=P3.4 Pin=J18-4
+Added Pin To Net: NetName=P3.4 Pin=J35-3
+Added Pin To Net: NetName=P3.4 Pin=U1-51
+Added Net: Name=P3.4
+Added Pin To Net: NetName=P3.5 Pin=J7-6
+Added Pin To Net: NetName=P3.5 Pin=J18-3
+Added Pin To Net: NetName=P3.5 Pin=U1-52
+Added Net: Name=P3.5
+Added Pin To Net: NetName=P3.6 Pin=IC3-8
+Added Pin To Net: NetName=P3.6 Pin=J18-2
+Added Pin To Net: NetName=P3.6 Pin=U1-41
+Added Net: Name=P3.6
+Added Pin To Net: NetName=P3.7 Pin=IC3-7
+Added Pin To Net: NetName=P3.7 Pin=J18-1
+Added Pin To Net: NetName=P3.7 Pin=U1-42
+Added Net: Name=P3.7
+Added Pin To Net: NetName=NetJ19_1 Pin=J19-1
+Added Pin To Net: NetName=NetJ19_1 Pin=Q9-2
+Added Net: Name=NetJ19_1
+Added Pin To Net: NetName=NetJ19_2 Pin=J19-2
+Added Pin To Net: NetName=NetJ19_2 Pin=Q11-2
+Added Net: Name=NetJ19_2
+Added Pin To Net: NetName=NetJ19_3 Pin=J19-3
+Added Pin To Net: NetName=NetJ19_3 Pin=Q13-2
+Added Net: Name=NetJ19_3
+Added Pin To Net: NetName=NetJ19_4 Pin=J19-4
+Added Pin To Net: NetName=NetJ19_4 Pin=Q15-2
+Added Net: Name=NetJ19_4
+Added Pin To Net: NetName=NetJ22_1 Pin=J22-1
+Added Pin To Net: NetName=NetJ22_1 Pin=Q17-2
+Added Net: Name=NetJ22_1
+Added Pin To Net: NetName=NetJ22_2 Pin=J22-2
+Added Pin To Net: NetName=NetJ22_2 Pin=Q19-2
+Added Net: Name=NetJ22_2
+Added Pin To Net: NetName=NetQ9_3 Pin=Q9-3
+Added Pin To Net: NetName=NetQ9_3 Pin=R13-2
+Added Net: Name=NetQ9_3
+Added Pin To Net: NetName=NetQ11_1 Pin=Q11-1
+Added Pin To Net: NetName=NetQ11_1 Pin=R19-1
+Added Pin To Net: NetName=NetQ11_1 Pin=R24-1
+Added Net: Name=NetQ11_1
+Added Pin To Net: NetName=NetQ11_3 Pin=Q11-3
+Added Pin To Net: NetName=NetQ11_3 Pin=R14-2
+Added Net: Name=NetQ11_3
+Added Pin To Net: NetName=NetQ13_1 Pin=Q13-1
+Added Pin To Net: NetName=NetQ13_1 Pin=R20-1
+Added Pin To Net: NetName=NetQ13_1 Pin=R25-1
+Added Net: Name=NetQ13_1
+Added Pin To Net: NetName=NetQ13_3 Pin=Q13-3
+Added Pin To Net: NetName=NetQ13_3 Pin=R15-2
+Added Net: Name=NetQ13_3
+Added Pin To Net: NetName=NetQ15_1 Pin=Q15-1
+Added Pin To Net: NetName=NetQ15_1 Pin=R21-1
+Added Pin To Net: NetName=NetQ15_1 Pin=R26-1
+Added Net: Name=NetQ15_1
+Added Pin To Net: NetName=NetQ15_3 Pin=Q15-3
+Added Pin To Net: NetName=NetQ15_3 Pin=R16-2
+Added Net: Name=NetQ15_3
+Added Pin To Net: NetName=NetQ17_1 Pin=Q17-1
+Added Pin To Net: NetName=NetQ17_1 Pin=R22-1
+Added Pin To Net: NetName=NetQ17_1 Pin=R27-1
+Added Net: Name=NetQ17_1
+Added Pin To Net: NetName=NetQ17_3 Pin=Q17-3
+Added Pin To Net: NetName=NetQ17_3 Pin=R17-2
+Added Net: Name=NetQ17_3
+Added Pin To Net: NetName=NetQ19_1 Pin=Q19-1
+Added Pin To Net: NetName=NetQ19_1 Pin=R28-1
+Added Pin To Net: NetName=NetQ19_1 Pin=R29-1
+Added Net: Name=NetQ19_1
+Added Pin To Net: NetName=NetQ19_3 Pin=Q19-3
+Added Pin To Net: NetName=NetQ19_3 Pin=R18-2
+Added Net: Name=NetQ19_3
+Added Class: Name=P3.[0..7]

@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=GND Pin=C10-1
+Removed Pin From Net: NetName=GND Pin=U1-5
+Change Component Designator: OldDesignator=Boot NewDesignator=SW1
+Change Component Designator: OldDesignator=Reset NewDesignator=SW2
+Added Pin To Net: NetName=NetC10_1 Pin=C10-1
+Added Pin To Net: NetName=NetC10_1 Pin=U1-5
+Added Net: Name=NetC10_1

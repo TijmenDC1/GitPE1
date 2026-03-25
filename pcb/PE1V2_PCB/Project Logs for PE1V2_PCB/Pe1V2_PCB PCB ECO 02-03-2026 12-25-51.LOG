@@ -1,0 +1,43 @@
+Removed Pin From Net: NetName=Sleep stp Pin=MS1-1
+Removed Pin From Net: NetName=Reset (stpr) stp Pin=MS1-2
+Removed Pin From Net: NetName=Enable stp Pin=MS1-3
+Removed Pin From Net: NetName=MS3 P3.4 stp Pin=MS1-4
+Removed Pin From Net: NetName=MS2 P3.3 stp Pin=MS1-5
+Removed Pin From Net: NetName=MS1 P3.2 stp Pin=MS1-6
+Removed Pin From Net: NetName=P4.2 Pin=MS2-1
+Removed Pin From Net: NetName=P4.1 Pin=MS2-2
+Removed Pin From Net: NetName=P4.0 Pin=MS2-3
+Removed Pin From Net: NetName=NetIC1_15 Pin=R25-1
+Removed Pin From Net: NetName=NetJ1_2 Pin=R25-2
+Removed Pin From Net: NetName=NetIC1_2 Pin=R26-1
+Removed Pin From Net: NetName=NetJ1_3 Pin=R26-2
+Add Pin To Net: Unknown Pin: Pin J33-1
+Add Pin To Net: Unknown Pin: Pin J33-2
+Add Pin To Net: Unknown Pin: Pin J33-3
+Add Pin To Net: Unknown Pin: Pin J33-7
+Add Pin To Net: Unknown Pin: Pin J33-8
+Add Pin To Net: Unknown Pin: Pin J33-9
+Add Pin To Net: Unknown Pin: Pin J33-10
+Add Pin To Net: Unknown Pin: Pin J33-11
+Add Pin To Net: Unknown Pin: Pin J33-12
+Add Pin To Net: Unknown Pin: Pin R25-
+Add Pin To Net: Unknown Pin: Pin R25-
+Add Pin To Net: Unknown Pin: Pin R26-
+Add Pin To Net: Unknown Pin: Pin R26-
+Change Net Name : Old Net Name=P3.0 New Net Name=P3.0
+Change Net Name : Old Net Name=P3.1 New Net Name=P3.1
+Change Net Name : Old Net Name=P3.5 New Net Name=P3.5
+Change Net Name : Old Net Name=P3.6 New Net Name=P3.6
+Change Net Name : Old Net Name=P3.7 New Net Name=P3.7
+Added Pin To Net: NetName=P3.2 Pin=J16-3
+Added Pin To Net: NetName=P3.2 Pin=U1-49
+Added Net: Name=P3.2
+Added Pin To Net: NetName=P3.3 Pin=J16-4
+Added Pin To Net: NetName=P3.3 Pin=U1-50
+Added Net: Name=P3.3
+Added Pin To Net: NetName=P3.4 Pin=J17-1
+Added Pin To Net: NetName=P3.4 Pin=U1-51
+Added Net: Name=P3.4
+Change Class Name : Old Net Name=P3.[0..7] New Net Name=P3.[0..7]
+Added Class: Name=P3.[0..7]
+Add Class Member: Failed to add class member : Component J33 M20-2x6P

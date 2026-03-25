@@ -1,0 +1,12 @@
+Remove Pin=J33-1 From Net=P4.
+Remove Pin=J33-2 From Net=P4.
+Remove Pin=J33-3 From Net=P4.
+Remove Pin=J33-4 From Net=P3.
+Remove Pin=J33-5 From Net=P3.
+Remove Pin=J33-6 From Net=P3.
+Remove Pin=J33-7 From Net=Sleep stp
+Remove Pin=J33-8 From Net=Reset (stpr) stp
+Remove Pin=J33-9 From Net=Enable stp
+Remove Pin=J33-10 From Net=MS3 P3.4 stp
+Remove Pin=J33-11 From Net=MS2 P3.3 stp
+Remove Pin=J33-12 From Net=MS1 P3.2 stp

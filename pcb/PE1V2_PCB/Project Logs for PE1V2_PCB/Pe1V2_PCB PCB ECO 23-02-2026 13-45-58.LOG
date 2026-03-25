@@ -1,0 +1,13 @@
+Removed Pin From Net: NetName=P4.0 Pin=J33-1
+Removed Pin From Net: NetName=P4.2 Pin=J33-2
+Removed Pin From Net: NetName=Reset (stpr) stp Pin=J34-1
+Removed Pin From Net: NetName=Sleep stp Pin=J34-2
+Removed Member From Class: ClassName=P3.[0..7] Member=P3.0
+Removed Member From Class: ClassName=P3.[0..7] Member=P3.1
+Removed Member From Class: ClassName=P3.[0..7] Member=P3.5
+Removed Member From Class: ClassName=P3.[0..7] Member=P3.6
+Removed Member From Class: ClassName=P3.[0..7] Member=P3.7
+Added Pin To Net: NetName=P4.2 Pin=J33-1
+Added Pin To Net: NetName=P4.0 Pin=J33-2
+Added Pin To Net: NetName=Sleep stp Pin=J34-1
+Added Pin To Net: NetName=Reset (stpr) stp Pin=J34-2

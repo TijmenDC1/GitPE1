@@ -1,0 +1,89 @@
+Removed Pin From Net: NetName=GND Pin=D7-2
+Removed Pin From Net: NetName=P4.0 Pin=J38-1
+Removed Pin From Net: NetName=P4.1 Pin=J38-2
+Removed Pin From Net: NetName=P4.2 Pin=J38-3
+Removed Pin From Net: NetName=P4.3 Pin=J38-4
+Removed Pin From Net: NetName=P4.4 Pin=J40-1
+Removed Pin From Net: NetName=P4.5 Pin=J40-2
+Removed Pin From Net: NetName=P4.6 Pin=J40-3
+Removed Pin From Net: NetName=P4.7 Pin=J40-4
+Removed Pin From Net: NetName=VCC Pin=Q37-3
+Removed Pin From Net: NetName=VCC Pin=Q39-3
+Removed Pin From Net: NetName=VCC Pin=Q41-3
+Removed Pin From Net: NetName=VCC Pin=Q43-3
+Removed Pin From Net: NetName=VCC Pin=Q45-3
+Removed Pin From Net: NetName=VCC Pin=Q47-3
+Removed Pin From Net: NetName=VCC Pin=Q49-3
+Removed Pin From Net: NetName=VCC Pin=Q51-3
+Removed Pin From Net: NetName=P4.0 Pin=R59-2
+Removed Pin From Net: NetName=P4.1 Pin=R60-2
+Removed Pin From Net: NetName=P4.2 Pin=R61-2
+Removed Pin From Net: NetName=P4.3 Pin=R62-2
+Removed Pin From Net: NetName=P4.4 Pin=R63-2
+Removed Pin From Net: NetName=P4.5 Pin=R64-2
+Removed Pin From Net: NetName=P4.6 Pin=R65-2
+Removed Pin From Net: NetName=P4.7 Pin=R66-2
+Removed Pin From Net: NetName=GND Pin=R67-2
+Removed Pin From Net: NetName=GND Pin=R68-2
+Removed Pin From Net: NetName=3.3V Pin=S4-2
+Add Pin To Net: Unknown Pin: Pin J14-5
+Add Pin To Net: Unknown Pin: Pin J14-6
+Add Pin To Net: Unknown Pin: Pin J14-7
+Add Pin To Net: Unknown Pin: Pin J14-8
+Add Pin To Net: Unknown Pin: Pin J15-5
+Add Pin To Net: Unknown Pin: Pin J15-6
+Add Pin To Net: Unknown Pin: Pin J15-7
+Add Pin To Net: Unknown Pin: Pin J15-8
+Add Pin To Net: Unknown Pin: Pin J17-5
+Add Pin To Net: Unknown Pin: Pin J17-6
+Add Pin To Net: Unknown Pin: Pin J17-7
+Add Pin To Net: Unknown Pin: Pin J17-8
+Add Pin To Net: Unknown Pin: Pin J18-5
+Add Pin To Net: Unknown Pin: Pin J18-6
+Add Pin To Net: Unknown Pin: Pin J18-7
+Add Pin To Net: Unknown Pin: Pin J18-8
+Add Pin To Net: Unknown Pin: Pin J26-5
+Add Pin To Net: Unknown Pin: Pin J26-6
+Add Pin To Net: Unknown Pin: Pin J26-7
+Add Pin To Net: Unknown Pin: Pin J26-8
+Add Pin To Net: Unknown Pin: Pin J27-5
+Add Pin To Net: Unknown Pin: Pin J27-6
+Add Pin To Net: Unknown Pin: Pin J27-7
+Add Pin To Net: Unknown Pin: Pin J27-8
+Add Pin To Net: Unknown Pin: Pin J29-5
+Add Pin To Net: Unknown Pin: Pin J29-6
+Add Pin To Net: Unknown Pin: Pin J29-7
+Add Pin To Net: Unknown Pin: Pin J29-8
+Add Pin To Net: Unknown Pin: Pin J30-5
+Add Pin To Net: Unknown Pin: Pin J30-6
+Add Pin To Net: Unknown Pin: Pin J30-7
+Add Pin To Net: Unknown Pin: Pin J30-8
+Change Net Name : Old Net Name=P3.0 New Net Name=P3.0
+Change Net Name : Old Net Name=P3.1 New Net Name=P3.1
+Change Net Name : Old Net Name=P3.2 New Net Name=P3.2
+Change Net Name : Old Net Name=P3.3 New Net Name=P3.3
+Change Net Name : Old Net Name=P3.4 New Net Name=P3.4
+Change Net Name : Old Net Name=P3.5 New Net Name=P3.5
+Change Net Name : Old Net Name=P3.6 New Net Name=P3.6
+Change Net Name : Old Net Name=P3.7 New Net Name=P3.7
+Add Net: Net with name "NetJ20_1" already exists
+Add Net: Net with name "NetJ20_2" already exists
+Add Net: Net with name "NetJ21_1" already exists
+Add Net: Net with name "NetJ21_2" already exists
+Added Pin To Net: NetName=P4.0O Pin=J38-1
+Added Net: Name=P4.0O
+Added Pin To Net: NetName=P4.1O Pin=J38-2
+Added Net: Name=P4.1O
+Added Pin To Net: NetName=P4.2O Pin=J38-3
+Added Net: Name=P4.2O
+Added Pin To Net: NetName=P4.3O Pin=J38-4
+Added Net: Name=P4.3O
+Added Pin To Net: NetName=P4.4O Pin=J40-1
+Added Net: Name=P4.4O
+Added Pin To Net: NetName=P4.5O Pin=J40-2
+Added Net: Name=P4.5O
+Added Pin To Net: NetName=P4.6O Pin=J40-3
+Added Net: Name=P4.6O
+Added Pin To Net: NetName=P4.7O Pin=J40-4
+Added Net: Name=P4.7O
+Added Class: Name=P3.[0..7]

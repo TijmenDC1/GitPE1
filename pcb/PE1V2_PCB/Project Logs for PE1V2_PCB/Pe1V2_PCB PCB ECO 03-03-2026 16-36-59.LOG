@@ -1,0 +1,106 @@
+Removed Pin From Net: NetName=VCC STEP Pin=C34-1
+Removed Pin From Net: NetName=GND Pin=C34-2
+Removed Pin From Net: NetName=VCC STEP Pin=C35-1
+Removed Pin From Net: NetName=GND Pin=C35-2
+Removed Pin From Net: NetName=VCC STEP Pin=C36-1
+Removed Pin From Net: NetName=GND Pin=C36-2
+Removed Pin From Net: NetName=VCC STEP Pin=C37-1
+Removed Pin From Net: NetName=GND Pin=C37-2
+Removed Pin From Net: NetName=VCC STEP Pin=C38-1
+Removed Pin From Net: NetName=GND Pin=C38-2
+Removed Pin From Net: NetName=VCC STEP Pin=C39-1
+Removed Pin From Net: NetName=GND Pin=C39-2
+Removed Member From Class: ClassName=Steppers Member=C34
+Removed Member From Class: ClassName=Steppers Member=C35
+Removed Member From Class: ClassName=Steppers Member=C36
+Removed Member From Class: ClassName=Steppers Member=C37
+Removed Member From Class: ClassName=Steppers Member=C38
+Removed Member From Class: ClassName=Steppers Member=C39
+Change Component Designator: OldDesignator=3.3V NewDesignator=U3
+Change Component Designator: OldDesignator=5V NewDesignator=U2
+Change Component Designator: OldDesignator=C6 NewDesignator=C7
+Change Component Designator: OldDesignator=C7 NewDesignator=C6
+Change Component Designator: OldDesignator=C9 NewDesignator=C10
+Change Component Designator: OldDesignator=C10 NewDesignator=C11
+Change Component Designator: OldDesignator=C11 NewDesignator=C9
+Change Component Designator: OldDesignator=C16 NewDesignator=C12
+Change Component Designator: OldDesignator=C17 NewDesignator=C13
+Change Component Designator: OldDesignator=C18 NewDesignator=C14
+Change Component Designator: OldDesignator=C19 NewDesignator=C15
+Change Component Designator: OldDesignator=C20 NewDesignator=C16
+Change Component Designator: OldDesignator=C21 NewDesignator=C17
+Change Component Designator: OldDesignator=J9 NewDesignator=J11
+Change Component Designator: OldDesignator=J10 NewDesignator=J12
+Change Component Designator: OldDesignator=J11 NewDesignator=J13
+Change Component Designator: OldDesignator=J12 NewDesignator=J19
+Change Component Designator: OldDesignator=J13 NewDesignator=J14
+Change Component Designator: OldDesignator=J14 NewDesignator=J15
+Change Component Designator: OldDesignator=J15 NewDesignator=J16
+Change Component Designator: OldDesignator=J16 NewDesignator=J17
+Change Component Designator: OldDesignator=J17 NewDesignator=J18
+Change Component Designator: OldDesignator=J18 NewDesignator=J9
+Change Component Designator: OldDesignator=J19 NewDesignator=J10
+Change Component Designator: OldDesignator=R3 NewDesignator=R5
+Change Component Designator: OldDesignator=R4 NewDesignator=R6
+Change Component Designator: OldDesignator=R5 NewDesignator=R7
+Change Component Designator: OldDesignator=R6 NewDesignator=R8
+Change Component Designator: OldDesignator=R7 NewDesignator=R9
+Change Component Designator: OldDesignator=R8 NewDesignator=R10
+Change Component Designator: OldDesignator=R9 NewDesignator=R11
+Change Component Designator: OldDesignator=R10 NewDesignator=R18
+Change Component Designator: OldDesignator=R11 NewDesignator=R19
+Change Component Designator: OldDesignator=R12 NewDesignator=R26
+Change Component Designator: OldDesignator=R13 NewDesignator=R12
+Change Component Designator: OldDesignator=R14 NewDesignator=R13
+Change Component Designator: OldDesignator=R15 NewDesignator=R14
+Change Component Designator: OldDesignator=R16 NewDesignator=R15
+Change Component Designator: OldDesignator=R17 NewDesignator=R16
+Change Component Designator: OldDesignator=R18 NewDesignator=R17
+Change Component Designator: OldDesignator=R19 NewDesignator=R20
+Change Component Designator: OldDesignator=R20 NewDesignator=R21
+Change Component Designator: OldDesignator=R21 NewDesignator=R22
+Change Component Designator: OldDesignator=R22 NewDesignator=R23
+Change Component Designator: OldDesignator=R23 NewDesignator=R24
+Change Component Designator: OldDesignator=R24 NewDesignator=R25
+Change Component Designator: OldDesignator=R25 NewDesignator=R3
+Change Component Designator: OldDesignator=R26 NewDesignator=R4
+Add Pin To Net: Unknown Pin: Pin C18-1
+Add Pin To Net: Unknown Pin: Pin C18-2
+Add Pin To Net: Unknown Pin: Pin C19-1
+Add Pin To Net: Unknown Pin: Pin C19-2
+Add Pin To Net: Unknown Pin: Pin C20-1
+Add Pin To Net: Unknown Pin: Pin C20-2
+Add Pin To Net: Unknown Pin: Pin C24-1
+Add Pin To Net: Unknown Pin: Pin C24-2
+Added Pin To Net: NetName=GND Pin=C25-1
+Added Pin To Net: NetName=VCC STEP Pin=C25-2
+Added Pin To Net: NetName=GND Pin=C26-1
+Added Pin To Net: NetName=VCC STEP Pin=C26-2
+Add Pin To Net: Unknown Pin: Pin R3-
+Add Pin To Net: Unknown Pin: Pin R3-
+Add Pin To Net: Unknown Pin: Pin R4-
+Add Pin To Net: Unknown Pin: Pin R4-
+Change Net Name : Old Net Name=NetC6_2 New Net Name=NetC7_2
+Change Net Name : Old Net Name=NetC11_1 New Net Name=NetC9_1
+Change Net Name : Old Net Name=NetJ9_4 New Net Name=NetJ11_4
+Change Net Name : Old Net Name=NetJ18_1 New Net Name=NetJ9_1
+Change Net Name : Old Net Name=NetJ18_2 New Net Name=NetJ9_2
+Change Net Name : Old Net Name=NetJ18_3 New Net Name=NetJ9_3
+Change Net Name : Old Net Name=NetJ18_4 New Net Name=NetJ9_4
+Change Net Name : Old Net Name=NetJ19_1 New Net Name=NetJ10_1
+Change Net Name : Old Net Name=NetJ19_2 New Net Name=NetJ10_2
+Change Net Name : Old Net Name=P3.0 New Net Name=P3.0
+Change Net Name : Old Net Name=P3.1 New Net Name=P3.1
+Change Net Name : Old Net Name=P3.2 New Net Name=P3.2
+Change Net Name : Old Net Name=P3.3 New Net Name=P3.3
+Change Net Name : Old Net Name=P3.4 New Net Name=P3.4
+Change Net Name : Old Net Name=P3.5 New Net Name=P3.5
+Change Net Name : Old Net Name=P3.6 New Net Name=P3.6
+Change Net Name : Old Net Name=P3.7 New Net Name=P3.7
+Added Class: Name=P3.[0..7]
+Add Class Member: Failed to add class member : Component C18 100uF-elco-cap
+Add Class Member: Failed to add class member : Component C19 100uF-elco-cap
+Add Class Member: Failed to add class member : Component C20 100uF-elco-cap
+Add Class Member: Failed to add class member : Component C24 100uF-elco-cap
+Added Member To Class: ClassName=Steppers Member=Component C25 100uF-elco-cap
+Added Member To Class: ClassName=Steppers Member=Component C26 100uF-elco-cap

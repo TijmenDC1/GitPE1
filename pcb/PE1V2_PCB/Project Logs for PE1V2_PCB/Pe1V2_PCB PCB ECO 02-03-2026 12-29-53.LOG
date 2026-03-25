@@ -1,0 +1,18 @@
+Added Component: Designator=J33(M20-2x6PIN)
+Added Pin To Net: NetName=P4.2 Pin=J33-1
+Added Pin To Net: NetName=P4.1 Pin=J33-2
+Added Pin To Net: NetName=P4.0 Pin=J33-3
+Added Pin To Net: NetName=P3.4 Pin=J33-4
+Added Pin To Net: NetName=P3.3 Pin=J33-5
+Added Pin To Net: NetName=P3.2 Pin=J33-6
+Added Pin To Net: NetName=Sleep stp Pin=J33-7
+Added Pin To Net: NetName=Reset (stpr) stp Pin=J33-8
+Added Pin To Net: NetName=Enable stp Pin=J33-9
+Added Pin To Net: NetName=MS3 P3.4 stp Pin=J33-10
+Added Pin To Net: NetName=MS2 P3.3 stp Pin=J33-11
+Added Pin To Net: NetName=MS1 P3.2 stp Pin=J33-12
+Add Pin To Net: Unknown Pin: Pin R25-
+Add Pin To Net: Unknown Pin: Pin R25-
+Add Pin To Net: Unknown Pin: Pin R26-
+Add Pin To Net: Unknown Pin: Pin R26-
+Added Member To Class: ClassName=Steppers Member=Component J33 M20-2x6P

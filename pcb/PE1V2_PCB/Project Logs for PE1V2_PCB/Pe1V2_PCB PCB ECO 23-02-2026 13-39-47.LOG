@@ -1,0 +1,51 @@
+Removed Pin From Net: NetName=P4.0 Pin=J33-4
+Removed Pin From Net: NetName=P4.2 Pin=J33-6
+Removed Pin From Net: NetName=MS1 P3.2 stp Pin=J34-1
+Removed Pin From Net: NetName=MS2 P3.3 stp Pin=J34-2
+Removed Pin From Net: NetName=MS3 P3.4 stp Pin=J34-3
+Removed Pin From Net: NetName=Enable stp Pin=J34-4
+Removed Pin From Net: NetName=Reset (stpr) stp Pin=J34-5
+Removed Pin From Net: NetName=Sleep stp Pin=J34-6
+Change Component Designator: OldDesignator=Boot NewDesignator=SW1
+Change Component Designator: OldDesignator=Reset NewDesignator=SW2
+Change Component Description : Designator=Q1 Old Description=P channel fet New Description=P channel fet| 
+Imax= 130mA
+Change Component Description : Designator=Q2 Old Description=P channel fet New Description=P channel fet| 
+Imax= 130mA
+Change Component Description : Designator=Q3 Old Description=P channel fet New Description=P channel fet| 
+Imax= 130mA
+Change Component Description : Designator=Q4 Old Description=P channel fet New Description=P channel fet| 
+Imax= 130mA
+Change Component Description : Designator=Q5 Old Description=P channel fet New Description=P channel fet| 
+Imax= 130mA
+Change Component Description : Designator=Q6 Old Description=P channel fet New Description=P channel fet| 
+Imax= 130mA
+Added Pin To Net: NetName=P4.0 Pin=J20-2
+Added Pin To Net: NetName=P4.0 Pin=J33-1
+Added Pin To Net: NetName=P4.2 Pin=J33-2
+Added Pin To Net: NetName=P4.0 Pin=J33-3
+Added Pin To Net: NetName=Reset (stpr) stp Pin=J34-1
+Added Pin To Net: NetName=Sleep stp Pin=J34-2
+Added Pin To Net: NetName=Enable stp Pin=J34-3
+Added Pin To Net: NetName=MS3 P3.4 stp Pin=J34-4
+Added Pin To Net: NetName=MS2 P3.3 stp Pin=J34-5
+Added Pin To Net: NetName=MS1 P3.2 stp Pin=J34-6
+Added Pin To Net: NetName=P4.0 Pin=U1-60
+Change Net Name : Old Net Name=P3.0 New Net Name=P3.0
+Change Net Name : Old Net Name=P3.1 New Net Name=P3.1
+Change Net Name : Old Net Name=P3.5 New Net Name=P3.5
+Change Net Name : Old Net Name=P3.6 New Net Name=P3.6
+Change Net Name : Old Net Name=P3.7 New Net Name=P3.7
+Added Pin To Net: NetName=P3.2 Pin=J16-3
+Added Pin To Net: NetName=P3.2 Pin=J33-6
+Added Pin To Net: NetName=P3.2 Pin=U1-49
+Added Net: Name=P3.2
+Added Pin To Net: NetName=P3.3 Pin=J16-4
+Added Pin To Net: NetName=P3.3 Pin=J33-5
+Added Pin To Net: NetName=P3.3 Pin=U1-50
+Added Net: Name=P3.3
+Added Pin To Net: NetName=P3.4 Pin=J17-1
+Added Pin To Net: NetName=P3.4 Pin=J33-4
+Added Pin To Net: NetName=P3.4 Pin=U1-51
+Added Net: Name=P3.4
+Added Class: Name=P3.[0..7]
