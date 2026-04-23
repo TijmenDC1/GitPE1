@@ -16,22 +16,22 @@ blauw2       BIT     P1_data.7
 ;-------------------------------------------------
 ;-------          STEP       ---------------------
 ;-------------------------------------------------
-step1   BIT     P1_data.3
-step2   BIT     P1_data.5
-step3   BIT     P3_data.7
-step4   BIT     P3_data.1
-step5   BIT     P4_data.5
-step6   BIT     P4_data.7
+M1P_STEP   BIT     P1_data.3
+M1R_STEP   BIT	   P1_data.5
+M2P_STEP   BIT     P3_data.7
+M2R_STEP   BIT     P3_data.1
+M3P_STEP   BIT     P4_data.5
+GRIJP_STEP   BIT     P4_data.7
 
 ;-------------------------------------------------
 ;-------          DIR        ---------------------
 ;-------------------------------------------------
-dir1    BIT     P1_data.2
-dir2    BIT     P1_data.4
-dir3    BIT     P3_data.6
-dir4    BIT     P3_data.0
-dir5    BIT     P4_data.4
-dir6    BIT     P4_data.6
+M1P_DIR    BIT     P1_data.2
+M1R_DIR    BIT     P1_data.4
+M2P_DIR    BIT     P3_data.6
+M2R_DIR    BIT     P3_data.0
+M3P_DIR    BIT     P4_data.4
+GRIJP_DIR    BIT     P4_data.6
 ;-------------------------------------------------
 ;-------     SPECIALMOTOR    ---------------------
 ;-------------------------------------------------
@@ -62,12 +62,4 @@ SDA     BIT     P5_data.1
 CS      BIT     P5_data.2
 A0      BIT     P5_data.3
 RESET   BIT     P5_data.4
-
-;-------------------------------------------------
-;-------          UART       ---------------------
-;-------------------------------------------------
-SCL     BIT     P0_data.3
-TXD     BIT     P0_data.4
-RXD     BIT     P0_data.5
-SDA     BIT     P0_data.7
 
