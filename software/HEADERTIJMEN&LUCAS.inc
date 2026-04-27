@@ -58,16 +58,14 @@ IN8     BIT     P2_data.7
 ;-------          I2C        ---------------------
 ;-------------------------------------------------
 SCK     BIT     P5_data.0
-SDA     BIT     P5_data.1
+SDA1    BIT     P5_data.1
 CS      BIT     P5_data.2
 A0      BIT     P5_data.3
-RESET   BIT     P5_data.4
+RST	    BIT     P5_data.4
 
 ;-------------------------------------------------
 ;-------          UART       ---------------------
 ;-------------------------------------------------
-SCL     BIT     P0_data.3
 TXD     BIT     P0_data.4
 RXD     BIT     P0_data.5
-SDA     BIT     P0_data.7
 
