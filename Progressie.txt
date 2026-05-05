@@ -1,0 +1,57 @@
+Een klein document  om een overzicht te hebben hoe ons werk te verdelen in de laaste weken
+voor het project
+===========================================================================================
+TE DOEN                      ||gepland                                          || gedaan 
+===========================================================================================
+
+
+============
+Mechanisch
+============
+Arm houder monteren		--> in makerspace (ideaal ook donderdag 7/5)
+arm onderdelen printen		--> vanaf donderdag 7/5
+Exo-arm verder ontwerpen
+--> exo-arm printen
+
+
+============
+Software
+============
+- UART_RX			--> mee bezig (Lucas) hopelijk klaar tegen 8/5
+- antenne werkende krijgen
+- gyroscoop werkende krijgen
+- hoofdprogramma schrijven	--> zo snel mogelijk bekijken hoe aan te pakken
+- scherm aansturen 		--> goed om te doen maar niet noodzakelijk
+
+============
+Ander
+============
+- borje maken voor manueele encoders	--> maak ik na school uren (Lucas)
+- mini arm in de plaats van exo-arm
+om aan te sturen (BACK-UP)
+Synthese boek schrijven			--> best al aan beginnen
+
+============
+progressie
+============
+
+6/5
+7/5
+8/5
+9/5
+10/5
+11/5
+12/5
+13/5
+13/5
+15/5
+16/5
+17/5
+18/5
+19/5
+20/5
+21/5
+22/5
+23/5
+24/5
+25/5
