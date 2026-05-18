@@ -39,6 +39,10 @@ ORG 0000h
 
 ORG 0030h
 INIT_SYSTEM:
+    MOV p0_dir,#11111111b
+    MOV p1_dir,#11111111b
+    MOV p3_dir,#11111111b
+    MOV p4_dir,#11111111b
     MOV SP,#7fh             ; Initialiseer Stack Pointer
     
     ; 1. Zet alle huidige posities op 0
@@ -208,7 +212,7 @@ M3_DONE:
 ; HULPFUNCTIES
 ; ==============================================================================
 delay_motor:
-    MOV R5, #15             ; Bepaalt de breedte van de stap-puls
+    MOV R5, #15
 D_LUS: 
     DJNZ R5, D_LUS
     RET

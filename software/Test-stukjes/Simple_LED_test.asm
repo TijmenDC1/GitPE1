@@ -37,10 +37,7 @@ main:
 ;------------subroutines------------
 inits:           ;alle pinnen hoogzetten om standaard
     setb    led_1
-    setb    led_2
     setb    led_3
-    setb    led_4
-    setb    led_5
     setb    led_6 
     
     ret

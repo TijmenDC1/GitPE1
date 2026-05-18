@@ -77,3 +77,4 @@ RXD     BIT     P0_data.5
 AD0_SC  BIT P1_data.0    ; Sensor Schouder
 AD0_EL  BIT P1_data.1    ; Sensor Elleboog
 AD0_PO  BIT P1_data.2    ; Sensor Pols
+
