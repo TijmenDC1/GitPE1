@@ -2,15 +2,14 @@ sc_doel_pitch    EQU 30h
 sc_doel_roll     EQU 31h
 el_doel_plooien  EQU 32h
 el_doel_draaien  EQU 33h
-po_doel_knijpen  EQU 34h
-po_doel_draaien  EQU 35h
+po_doel_knijpen  EQU 34h   ;0 momenteel maar voor uart zenden
+po_doel_draaien  EQU 35h   ;0 momenteel maar voor uart zenden 
 
 AD0_EL  BIT P3_data.5    ; Sensor Elleboog
 AD0_SC  BIT P3_data.4  ; Sensor Schouder
 ORG 0000H
-    LJMP START
-
-ORG 0060H
+;    MOV po_doel_knijpen, #0
+;    MOV po_doel_draaien, #0
 START:
     MOV SP, #7FH
     PUSH syscon0
@@ -44,6 +43,8 @@ START:
     LCALL WEK_SENSOR     
     SETB AD0_SC     ;specifieke gyro terug uitzetten
     
+;;;;;;;    LCALL inituart1
+
 MAIN_LOOP:
     CLR AD0_EL  ;enkel elleboog
     LCALL LEES_ACCEL_1    
@@ -51,6 +52,7 @@ MAIN_LOOP:
     CLR AD0_SC
     LCALL LEES_ACCEL_2
     CLR AD0_SC
+    ;LCALL send_uart
     ljmp MAIN_LOOP
     ; Wek de MPU6050
 WEK_SENSOR:
@@ -142,8 +144,27 @@ Printen1a:
 		mov	r1,#00h
 		lcall	coloroutbyte
         ret
+;Send_UART:
+;    MOV A, #0FFH           ;Sync byte om te laten weten da er iets komt
+;    LCALL uart1outchar
+;    MOV A, sc_doel_pitch    
+;    LCALL uart1outchar
+;    MOV A, sc_doel_roll     
+;    LCALL uart1outchar
+;    MOV A, el_doel_plooien  
+;    LCALL uart1outchar
+;    MOV A, el_doel_draaien  
+;    LCALL uart1outchar
+;    MOV A, po_doel_knijpen  
+;    LCALL uart1outchar
+;    MOV A, po_doel_draaien  
+;    LCALL uart1outchar
+    
+;    LCALL delaya0k05s          
+;    RET
 
-#include "c:\colorxc0.inc"
-#include "c:\xcez5.inc"
 #include "c:\HEADERTIJMEN&LUCAS.inc"
+#include "c:\colorxc0.inc"
+;#include "c:\UART1.inc"
+#include "c:\xcez5.inc"
 END
